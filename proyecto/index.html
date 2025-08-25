@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Proyecto Visualización de Datos</title>
   <link rel="stylesheet" href="css/styles.css">
 </head>
@@ -11,20 +11,18 @@
     <h1>Proyecto Visualización de Datos</h1>
   </header>
 
-  <main>
-    <p>Explora mis visualizaciones creadas con distintas herramientas:</p>
+  <nav class="button-container">
+    <button onclick="loadVisualization('rawgraphs')">RAWGraphs</button>
+    <button onclick="loadVisualization('flourish')">Flourish</button>
+    <button onclick="loadVisualization('datawrapper')">Datawrapper</button>
+    <button onclick="loadVisualization('tableau')">Tableau</button>
+    <button onclick="loadVisualization('powerbi')">PowerBI</button>
+  </nav>
 
-    <div class="buttons">
-      <a href="rawgraphs.html" class="btn">RAWGraphs</a>
-      <a href="flourish.html" class="btn">Flourish</a>
-      <a href="datawrapper.html" class="btn">Datawrapper</a>
-      <a href="tableau.html" class="btn">Tableau</a>
-      <a href="powerbi.html" class="btn">PowerBI</a>
-    </div>
+  <main id="content">
+    <p class="placeholder">Selecciona una herramienta para cargar su visualización.</p>
   </main>
 
-  <footer>
-    <p>© 2025 Willian Berrocal Alvarado | Visualización de Datos</p>
-  </footer>
+  <script src="script.js"></script>
 </body>
 </html>
