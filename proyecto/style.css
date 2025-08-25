@@ -40,6 +40,7 @@ main {
 .viz-container {
   width: 100%;
   max-width: 1200px;
+  min-height: 1440px;
   background: #fff;
   border-radius: 12px;
   padding: 1rem;
@@ -50,7 +51,6 @@ main {
 .viz-container iframe,
 .viz-container .flourish-embed {
   width: 100%;
-  height: 80vh;
   border: none;
 }
 
@@ -102,11 +102,5 @@ footer {
 
   .viz-container {
     padding: 0.5rem;
-  }
-
-  .viz-container object,
-  .viz-container iframe,
-  .viz-container .flourish-embed {
-    height: 60vh;
   }
 }
