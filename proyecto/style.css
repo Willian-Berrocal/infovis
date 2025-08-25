@@ -5,102 +5,69 @@
   box-sizing: border-box;
 }
 
-/* Fuente y colores base */
 body {
   font-family: Arial, sans-serif;
   background-color: #f9f9f9;
   color: #333;
-  line-height: 1.6;
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+  line-height: 1.5;
+  overflow-y: scroll; /* habilita scroll vertical */
 }
 
-/* Encabezado */
-header {
-  background: #005f73;
-  color: #fff;
-  padding: 1.5rem;
-  text-align: center;
-}
-
-header h1 {
-  margin-bottom: 0.5rem;
-}
-
-/* Contenedor principal */
-main {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 2rem;
-}
-
-.viz-container {
-  width: 100%;
+.container {
   max-width: 1200px;
-  min-height: 1440px;
-  background: #fff;
-  border-radius: 12px;
-  padding: 1rem;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  margin: 0 auto;
+  padding: 20px;
 }
 
-.viz-container object,
-.viz-container iframe,
-.viz-container .flourish-embed {
-  width: 100%;
-  border: none;
+h1 {
+  font-size: 1.8rem;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #222;
 }
 
-/* Botones */
+/* Botones del index */
 .buttons {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
-  width: 100%;
-  max-width: 900px;
-}
-
-.btn {
   display: flex;
-  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
   justify-content: center;
+}
+
+.buttons a {
+  flex: 1 1 200px;
   text-align: center;
-  background: #0a9396;
-  color: #fff;
+  background-color: #0077cc;
+  color: white;
+  padding: 15px 20px;
   text-decoration: none;
-  padding: 1.5rem;
-  border-radius: 12px;
-  font-size: 1.1rem;
-  transition: background 0.3s ease, transform 0.2s ease;
-  min-height: 100px;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: background 0.3s ease;
 }
 
-.btn:hover {
-  background: #94d2bd;
-  color: #000;
-  transform: translateY(-3px);
+.buttons a:hover {
+  background-color: #005fa3;
 }
 
-/* Footer */
-footer {
-  background: #005f73;
-  color: #fff;
-  text-align: center;
-  padding: 1rem;
-  font-size: 0.9rem;
+/* Imágenes grandes (1440px de alto) */
+img, object, iframe {
+  display: block;
+  width: 100%;       /* Se ajustan al ancho de pantalla */
+  height: auto;      /* Mantiene proporciones */
+  margin-bottom: 30px;
+  max-height: 1440px; /* límite de altura */
+  object-fit: contain; /* para SVG o iframes */
 }
 
 /* Responsive */
 @media (max-width: 768px) {
-  header h1 {
-    font-size: 1.2rem;
-    padding: 0 1rem;
+  h1 {
+    font-size: 1.4rem;
   }
 
-  .viz-container {
-    padding: 0.5rem;
+  .buttons a {
+    font-size: 0.9rem;
+    padding: 12px 15px;
   }
 }
