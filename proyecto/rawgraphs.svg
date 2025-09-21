@@ -1,1 +1,2990 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1440"><rect width="1000" height="1440" x="0" y="0" fill="#FFFFFF" id="background"/><g transform="translate(30,25)" id="visualization"><g><rect x="458" y="109.99999999999977" height="461.128518435675" width="4" fill="black"><title>Carnes, huevos y lacteos: 157773.25</title></rect><rect x="0" y="97.5" height="395.3503009381988" width="4" fill="black"><title>Feria Sabados: 135267.5</title></rect><rect x="0" y="497.8503009381988" height="191.31143326253647" width="4" fill="black"><title>Coto: 65456.42999999999</title></rect><rect x="0" y="694.1617342007353" height="164.82264890626504" width="4" fill="black"><title>Dia: 56393.399999999994</title></rect><rect x="458" y="576.1285184356748" height="161.10055299819555" width="4" fill="black"><title>Verduras y frutas: 55119.9</title></rect><rect x="458" y="742.2290714338703" height="143.24656351193948" width="4" fill="black"><title>Cereales: 49011.229999999996</title></rect><rect x="916" y="0" height="138.817956222749" width="4" fill="black"><title>Milanesa de carne: 47496</title></rect><rect x="0" y="863.9843831070003" height="121.64107545971422" width="4" fill="black"><title>Farmacity: 41619</title></rect><rect x="458" y="890.4756349458098" height="115.07282564879574" width="4" fill="black"><title>Higiene: 39371.7</title></rect><rect x="916" y="143.817956222749" height="110.88835394751334" width="4" fill="black"><title>Huevo: 37940</title></rect><rect x="0" y="990.6254585667145" height="109.35099827602176" width="4" fill="black"><title>Carrefour Express: 37414</title></rect><rect x="458" y="1010.5484605946056" height="105.17149521474221" width="4" fill="black"><title>Utensilios: 35984</title></rect><rect x="916" y="259.7063101702623" height="84.82637576749295" width="4" fill="black"><title>Milanesa de pollo: 29023</title></rect><rect x="458" y="1120.7199558093478" height="78.38468014017826" width="4" fill="black"><title>Salud: 26819</title></rect><rect x="0" y="1104.9764568427363" height="75.69869180918795" width="4" fill="black"><title>Bazar La Luna: 25900</title></rect><rect x="916" y="349.5326859377553" height="70.88782074000818" width="4" fill="black"><title>Pan: 24253.98</title></rect><rect x="916" y="425.42050667776346" height="62.77072893100308" width="4" fill="black"><title>Leche: 21476.75</title></rect><rect x="916" y="493.19123560876653" height="44.02916497646072" width="4" fill="black"><title>Banana: 15064.400000000001</title></rect><rect x="458" y="1204.104635949526" height="43.00430990762311" width="4" fill="black"><title>Otros: 14713.75</title></rect><rect x="458" y="1252.1089458571491" height="42.89105414285086" width="4" fill="black"><title>Snacks: 14675</title></rect><rect x="916" y="542.2204005852273" height="40.62593884740204" width="4" fill="black"><title>Vitamina: 13900</title></rect><rect x="916" y="587.8463394326293" height="39.456847082009176" width="4" fill="black"><title>Sarten: 13500</title></rect><rect x="916" y="632.3031865146385" height="34.897389196976974" width="4" fill="black"><title>Barra de proteina: 11940</title></rect><rect x="916" y="672.2005757116154" height="32.29250660721107" width="4" fill="black"><title>Chocolate en polvo: 11048.75</title></rect><rect x="916" y="709.4930823188265" height="32.15002354830381" width="4" fill="black"><title>Brocoli: 11000</title></rect><rect x="916" y="746.6431058671303" height="31.743764159829766" width="4" fill="black"><title>Jugo de fruta: 10861</title></rect><rect x="916" y="783.3868700269601" height="28.069893287082664" width="4" fill="black"><title>Mandarina: 9604</title></rect><rect x="916" y="816.4567633140427" height="25.968450838789067" width="4" fill="black"><title>Galletas: 8885</title></rect><rect x="916" y="847.4252141528318" height="25.8515416622497" width="4" fill="black"><title>Espuma de afeitar: 8845</title></rect><rect x="916" y="878.2767558150815" height="23.381835307857273" width="4" fill="black"><title>Vaporera: 8000</title></rect><rect x="916" y="906.6585911229388" height="21.672038600970268" width="4" fill="black"><title>Shampoo: 7415</title></rect><rect x="916" y="933.330629723909" height="20.590628717981872" width="4" fill="black"><title>Arroz: 7045</title></rect><rect x="0" y="1185.6751486519242" height="20.45910589437517" width="4" fill="black"><title>Gastronovo Belgrano: 7000</title></rect><rect x="916" y="958.9212584418909" height="20.45910589437517" width="4" fill="black"><title>Milanesa napolitana: 7000</title></rect><rect x="916" y="984.3803643362661" height="20.079151070622515" width="4" fill="black"><title>Acondicionador: 6870</title></rect><rect x="916" y="1009.4595154068886" height="18.734695540420716" width="4" fill="black"><title>Aceite de girasol: 6410</title></rect><rect x="0" y="1211.1342545462994" height="17.266024010145884" width="4" fill="black"><title>Res: 5907.5</title></rect><rect x="916" y="1033.1942109473093" height="17.266024010145884" width="4" fill="black"><title>Suprema de pollo: 5907.5</title></rect><rect x="916" y="1055.4602349574552" height="16.612793986232646" width="4" fill="black"><title>Corta uñas: 5684</title></rect><rect x="916" y="1077.0730289436879" height="16.411125656702325" width="4" fill="black"><title>Manzana: 5615</title></rect><rect x="0" y="1233.4002785564453" height="16.36728471550009" width="4" fill="black"><title>Fruteria Colon: 5600</title></rect><rect x="916" y="1098.4841546003902" height="13.364180243147302" width="4" fill="black"><title>Fideos: 4572.5</title></rect><rect x="916" y="1116.8483348435375" height="13.152282360669687" width="4" fill="black"><title>Dulce de leche: 4500</title></rect><rect x="916" y="1135.0006172042072" height="12.860009419321614" width="4" fill="black"><title>Taza: 4400</title></rect><rect x="916" y="1152.8606266235288" height="12.801554831051817" width="4" fill="black"><title>Papel toalla: 4380</title></rect><rect x="0" y="1254.7675632719454" height="10.81409882988396" width="4" fill="black"><title>Empanadaza: 3700</title></rect><rect x="916" y="1170.6621814545806" height="10.81409882988396" width="4" fill="black"><title>Empanada: 3700</title></rect><rect x="916" y="1186.4762802844646" height="10.083416476513548" width="4" fill="black"><title>Maquina de afeitar: 3450</title></rect><rect x="0" y="1270.5816621018294" height="9.352734123142909" width="4" fill="black"><title>Supermercado Orient: 3200</title></rect><rect x="0" y="1284.9343962249723" height="8.797415534581205" width="4" fill="black"><title>Mercado la Oficina: 3010</title></rect><rect x="0" y="1298.7318117595535" height="8.768188240446534" width="4" fill="black"><title>Tienda peruana: 3000</title></rect><rect x="916" y="1201.559696760978" height="8.696581369816158" width="4" fill="black"><title>Zanahoria: 2975.5</title></rect><rect x="916" y="1215.2562781307943" height="8.18364235775016" width="4" fill="black"><title>Tapones para oidos: 2800</title></rect><rect x="916" y="1228.4399204885444" height="7.434692945545294" width="4" fill="black"><title>Salsa bolognesa: 2543.75</title></rect><rect x="916" y="1240.8746134340897" height="7.306823533705483" width="4" fill="black"><title>Jabon: 2500</title></rect><rect x="916" y="1253.1814369677952" height="6.88302776875048" width="4" fill="black"><title>Crema dental: 2355</title></rect><rect x="916" y="1265.0644647365457" height="6.4007774155259085" width="4" fill="black"><title>Detergente: 2190</title></rect><rect x="916" y="1276.4652421520716" height="6.11142720359112" width="4" fill="black"><title>Cereal: 2091</title></rect><rect x="916" y="1287.5766693556627" height="5.2609129442678295" width="4" fill="black"><title>Jamon: 1800</title></rect><rect x="916" y="1297.8375822999305" height="4.666722054506863" width="4" fill="black"><title>Antitranspirante: 1596.7</title></rect><rect x="916" y="1307.5043043544374" height="4.354866826088482" width="4" fill="black"><title>Budin: 1490</title></rect><rect x="916" y="1316.859171180526" height="4.09182117887508" width="4" fill="black"><title>Queso: 1400</title></rect><rect x="916" y="1325.950992359401" height="4.062593884740181" width="4" fill="black"><title>Jabonera: 1390</title></rect><rect x="916" y="1335.0135862441412" height="3.9573756258548656" width="4" fill="black"><title>Tijera: 1354</title></rect><rect x="916" y="1343.970961869996" height="3.9456847082008153" width="4" fill="black"><title>Lavavajillas: 1350</title></rect><rect x="916" y="1352.9166465781968" height="3.594957178583172" width="4" fill="black"><title>Atun: 1230</title></rect><rect x="916" y="1361.51160375678" height="2.8613520957990204" width="4" fill="black"><title>Te: 979</title></rect><rect x="916" y="1369.372955852579" height="2.7736702133945528" width="4" fill="black"><title>Portaminas: 949</title></rect><rect x="916" y="1377.1466260659736" height="2.572001883864232" width="4" fill="black"><title>Sal: 880</title></rect><rect x="916" y="1384.7186279498378" height="1.7536376480893523" width="4" fill="black"><title>Pionono: 600</title></rect><rect x="916" y="1391.4722655979272" height="1.4613647067410511" width="4" fill="black"><title>Bolsa de tela: 500</title></rect><rect x="916" y="1397.9336303046682" height="1.4613647067410511" width="4" fill="black"><title>Minas: 500</title></rect><rect x="916" y="1404.3949950114093" height="0.6050049885907356" width="4" fill="black"><title>Goma de borrar: 207</title></rect></g><g fill="none" stroke-opacity="0.7"><g style="mix-blend-mode: multiply;"><path d="M4,1000.4385225724809C231,1000.4385225724809,231,879.2575281186265,458,879.2575281186265" stroke="#f8e71c" stroke-width="12.43621365436661"/><title>Carrefour Express → Cereales: 4255</title></g><g style="mix-blend-mode: multiply;"><path d="M4,1074.111762898126C231,1074.111762898126,231,1197.6739599016266,458,1197.6739599016266" stroke="#f8e71c" stroke-width="2.861352095799039"/><title>Carrefour Express → Salud: 979</title></g><g style="mix-blend-mode: multiply;"><path d="M4,1097.799023429692C231,1097.799023429692,231,1282.0084677570717,458,1282.0084677570717" stroke="#f8e71c" stroke-width="4.354866826088426"/><title>Carrefour Express → Snacks: 1490</title></g><g style="mix-blend-mode: multiply;"><path d="M4,1039.6688581249452C231,1039.6688581249452,231,972.5362318693245,458,972.5362318693245" stroke="#f8e71c" stroke-width="66.0244574505621"/><title>Carrefour Express → Higiene: 22590</title></g><g style="mix-blend-mode: multiply;"><path d="M4,1085.5820144813367C231,1085.5820144813367,231,1237.069370321838,458,1237.069370321838" stroke="#f8e71c" stroke-width="20.07915107062247"/><title>Carrefour Express → Otros: 6870</title></g><g style="mix-blend-mode: multiply;"><path d="M4,793.9390400099547C231,793.9390400099547,231,859.7994570483689,458,859.7994570483689" stroke="#f03f73" stroke-width="26.47992848614841"/><title>Dia → Cereales: 9060</title></g><g style="mix-blend-mode: multiply;"><path d="M4,706.49565232563C231,706.49565232563,231,508.12177910453295,458,508.12177910453295" stroke="#f03f73" stroke-width="24.667836249789467"/><title>Dia → Carnes, huevos y lacteos: 8440</title></g><g style="mix-blend-mode: multiply;"><path d="M4,825.2706993224836C231,825.2706993224836,231,1219.2845618407991,458,1219.2845618407991" stroke="#f03f73" stroke-width="15.490465891455472"/><title>Dia → Otros: 5300</title></g><g style="mix-blend-mode: multiply;"><path d="M4,812.3522353148925C231,812.3522353148925,231,900.3155880621803,458,900.3155880621803" stroke="#f03f73" stroke-width="10.346462123726862"/><title>Dia → Higiene: 3540</title></g><g style="mix-blend-mode: multiply;"><path d="M4,992.4229371560061C231,992.4229371560061,231,522.2531758187192,458,522.2531758187192" stroke="#f8e71c" stroke-width="3.5949571785830625"/><title>Carrefour Express → Carnes, huevos y lacteos: 1230</title></g><g style="mix-blend-mode: multiply;"><path d="M4,261.8582272024628C231,261.8582272024628,231,274.35822720246256,458,274.35822720246256" stroke="#c0e8e8" stroke-width="328.71645440492557"/><title>Feria Sabados → Carnes, huevos y lacteos: 112469</title></g><g style="mix-blend-mode: multiply;"><path d="M4,459.5333776715621C231,459.5333776715621,231,609.4454417023113,458,609.4454417023113" stroke="#c0e8e8" stroke-width="66.63384653327313"/><title>Feria Sabados → Verduras y frutas: 22798.5</title></g><g style="mix-blend-mode: multiply;"><path d="M4,881.0019751170003C231,881.0019751170003,231,922.5064111340436,458,922.5064111340436" stroke="#94f82a" stroke-width="34.035184019999804"/><title>Farmacity → Higiene: 11645</title></g><g style="mix-blend-mode: multiply;"><path d="M4,1142.8258027473303C231,1142.8258027473303,231,1069.0731943701724,458,1069.0731943701724" stroke="#9b9b9b" stroke-width="75.69869180918806"/><title>Bazar La Luna → Utensilios: 25900</title></g><g style="mix-blend-mode: multiply;"><path d="M4,614.5486463912438C231,614.5486463912438,231,794.3942821195825,458,794.3942821195825" stroke="#f48b4d" stroke-width="104.33042137142444"/><title>Coto → Cereales: 35696.229999999996</title></g><g style="mix-blend-mode: multiply;"><path d="M4,526.3860042255552C231,526.3860042255552,231,467.2521576922818,458,467.2521576922818" stroke="#f48b4d" stroke-width="57.07140657471285"/><title>Coto → Carnes, huevos y lacteos: 19526.75</title></g><g style="mix-blend-mode: multiply;"><path d="M4,558.6525716092217C231,558.6525716092217,231,646.4932290652579,458,646.4932290652579" stroke="#f48b4d" stroke-width="7.461728192619966"/><title>Coto → Verduras y frutas: 2553</title></g><g style="mix-blend-mode: multiply;"><path d="M4,675.6769913692818C231,675.6769913692818,231,1014.8448728324244,458,1014.8448728324244" stroke="#f48b4d" stroke-width="8.592824475637563"/><title>Coto → Utensilios: 2940</title></g><g style="mix-blend-mode: multiply;"><path d="M4,1260.1746126868875C231,1260.1746126868875,231,1289.5929505850581,458,1289.5929505850581" stroke="#dedd32" stroke-width="10.814098829884008"/><title>Empanadaza → Snacks: 3700</title></g><g style="mix-blend-mode: multiply;"><path d="M4,749.7643231087027C231,749.7643231087027,231,681.1588458197457,458,681.1588458197457" stroke="#f03f73" stroke-width="61.86950531635585"/><title>Dia → Verduras y frutas: 21168.399999999998</title></g><g style="mix-blend-mode: multiply;"><path d="M4,904.0608488246677C231,904.0608488246677,231,1025.1825667679109,458,1025.1825667679109" stroke="#94f82a" stroke-width="12.082563395335269"/><title>Farmacity → Utensilios: 4134</title></g><g style="mix-blend-mode: multiply;"><path d="M4,947.8637945445248C231,947.8637945445248,231,1158.4816198315373,458,1158.4816198315373" stroke="#94f82a" stroke-width="75.52332804437913"/><title>Farmacity → Salud: 25840</title></g><g style="mix-blend-mode: multiply;"><path d="M4,1219.7672665513724C231,1219.7672665513724,231,553.1427723074588,458,553.1427723074588" stroke="#ba2208" stroke-width="17.266024010145888"/><title>Res → Carnes, huevos y lacteos: 5907.5</title></g><g style="mix-blend-mode: multiply;"><path d="M4,846.0001576876059C231,846.0001576876059,231,1266.846808924633,458,1266.846808924633" stroke="#f03f73" stroke-width="25.968450838789032"/><title>Dia → Snacks: 8885</title></g><g style="mix-blend-mode: multiply;"><path d="M4,1303.1159058797766C231,1303.1159058797766,231,732.844977313647,458,732.844977313647" stroke="#900c00" stroke-width="8.768188240446493"/><title>Tienda peruana → Verduras y frutas: 3000</title></g><g style="mix-blend-mode: multiply;"><path d="M4,1289.333103992263C231,1289.333103992263,231,1111.3212480420573,458,1111.3212480420573" stroke="#db3d11" stroke-width="8.797415534581315"/><title>Mercado la Oficina → Utensilios: 3010</title></g><g style="mix-blend-mode: multiply;"><path d="M4,1241.5839209141955C231,1241.5839209141955,231,720.2772408356736,458,720.2772408356736" stroke="#ff821d" stroke-width="16.367284715500123"/><title>Fruteria Colon → Verduras y frutas: 5600</title></g><g style="mix-blend-mode: multiply;"><path d="M4,683.6907500798733C231,683.6907500798733,231,1207.8219824222986,458,1207.8219824222986" stroke="#f48b4d" stroke-width="7.434692945545256"/><title>Coto → Otros: 2543.75</title></g><g style="mix-blend-mode: multiply;"><path d="M4,688.2849153766906C231,688.2849153766906,231,1252.9857646811938,458,1252.9857646811938" stroke="#f48b4d" stroke-width="1.7536376480892988"/><title>Coto → Snacks: 600</title></g><g style="mix-blend-mode: multiply;"><path d="M4,1275.2580291634008C231,1275.2580291634008,231,566.4521513741032,458,566.4521513741032" stroke="#9d1000" stroke-width="9.352734123142927"/><title>Supermercado Orient → Carnes, huevos y lacteos: 3200</title></g><g style="mix-blend-mode: multiply;"><path d="M4,1195.9047015991118C231,1195.9047015991118,231,534.2802073551983,458,534.2802073551983" stroke="#f65f18" stroke-width="20.459105894375153"/><title>Gastronovo Belgrano → Carnes, huevos y lacteos: 7000</title></g><g style="mix-blend-mode: multiply;"><path d="M4,669.0472181042095C231,669.0472181042095,231,892.8089959730632,458,892.8089959730632" stroke="#f48b4d" stroke-width="4.666722054506972"/><title>Coto → Higiene: 1596.7</title></g><g style="mix-blend-mode: multiply;"><path d="M462,777.6729818038744C689,777.6729818038744,689,384.97659630775934,916,384.97659630775934" stroke="#d2ad25" stroke-width="70.88782074000815"/><title>Cereales → Pan: 24253.98</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1197.6739599016264C689,1197.6739599016264,689,1362.9422798046796,916,1362.9422798046796" stroke="#8eea1e" stroke-width="2.861352095799039"/><title>Salud → Te: 979</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1291.0689289388663C689,1291.0689289388663,689,1309.6817377674815,916,1309.6817377674815" stroke="#f18c31" stroke-width="4.354866826088426"/><title>Snacks → Budin: 1490</title></g><g style="mix-blend-mode: multiply;"><path d="M462,987.0937625319964C689,987.0937625319964,689,1256.6229508521706,916,1256.6229508521706" stroke="#71f2ec" stroke-width="6.883027768750497"/><title>Higiene → Crema dental: 2355</title></g><g style="mix-blend-mode: multiply;"><path d="M462,979.9988368807685C689,979.9988368807685,689,1244.5280252009425,916,1244.5280252009425" stroke="#71f2ec" stroke-width="7.306823533705411"/><title>Higiene → Jabon: 2500</title></g><g style="mix-blend-mode: multiply;"><path d="M462,948.038790744341C689,948.038790744341,689,994.4199398715773,916,994.4199398715773" stroke="#71f2ec" stroke-width="20.07915107062247"/><title>Higiene → Acondicionador: 6870</title></g><g style="mix-blend-mode: multiply;"><path d="M462,927.1631959085446C689,927.1631959085446,689,917.4946104234239,916,917.4946104234239" stroke="#71f2ec" stroke-width="21.67203860097025"/><title>Higiene → Shampoo: 7415</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1246.3782635037787C689,1246.3782635037787,689,1392.2029479512978,916,1392.2029479512978" stroke="#3e7bf7" stroke-width="1.4613647067410822"/><title>Otros → Bolsa de tela: 500</title></g><g style="mix-blend-mode: multiply;"><path d="M462,855.7047131400805C689,855.7047131400805,689,943.6259440829,916,943.6259440829" stroke="#d2ad25" stroke-width="20.59062871798185"/><title>Cereales → Arroz: 7045</title></g><g style="mix-blend-mode: multiply;"><path d="M462,475.9180504032564C689,475.9180504032564,689,456.805871143265,916,456.805871143265" stroke="#e1596a" stroke-width="62.77072893100308"/><title>Carnes, huevos y lacteos → Leche: 21476.75</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1244.361580208476C689,1244.361580208476,689,1378.4326270079057,916,1378.4326270079057" stroke="#3e7bf7" stroke-width="2.5720018838643046"/><title>Otros → Sal: 880</title></g><g style="mix-blend-mode: multiply;"><path d="M462,304.2621331965053C689,304.2621331965053,689,199.26213319650566,916,199.26213319650566" stroke="#e1596a" stroke-width="110.88835394751332"/><title>Carnes, huevos y lacteos → Huevo: 37940</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1003.5756182405049C689,1003.5756182405049,689,1345.9438042240965,916,1345.9438042240965" stroke="#71f2ec" stroke-width="3.9456847082009223"/><title>Higiene → Lavavajillas: 1350</title></g><g style="mix-blend-mode: multiply;"><path d="M462,551.6046859536139C689,551.6046859536139,689,1123.4244760238723,916,1123.4244760238723" stroke="#e1596a" stroke-width="13.15228236066974"/><title>Carnes, huevos y lacteos → Dulce de leche: 4500</title></g><g style="mix-blend-mode: multiply;"><path d="M462,993.7356651241346C689,993.7356651241346,689,1268.2648534443088,916,1268.2648534443088" stroke="#71f2ec" stroke-width="6.4007774155259405"/><title>Higiene → Detergente: 2190</title></g><g style="mix-blend-mode: multiply;"><path d="M462,569.3310398463833C689,569.3310398463833,689,1354.7141251674884,916,1354.7141251674884" stroke="#e1596a" stroke-width="3.5949571785830625"/><title>Carnes, huevos y lacteos → Atun: 1230</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1213.4719837197363C689,1213.4719837197363,689,1018.826863177099,916,1018.826863177099" stroke="#3e7bf7" stroke-width="18.734695540420674"/><title>Otros → Aceite de girasol: 6410</title></g><g style="mix-blend-mode: multiply;"><path d="M462,402.11949805400843C689,402.11949805400843,689,302.1194980540088,916,302.1194980540088" stroke="#e1596a" stroke-width="84.82637576749286"/><title>Carnes, huevos y lacteos → Milanesa de pollo: 29023</title></g><g style="mix-blend-mode: multiply;"><path d="M462,698.0864177638105C689,698.0864177638105,689,797.4218166705015,916,797.4218166705015" stroke="#3feb34" stroke-width="28.069893287082706"/><title>Verduras y frutas → Mandarina: 9604</title></g><g style="mix-blend-mode: multiply;"><path d="M462,598.1431009239052C689,598.1431009239052,689,515.2058180969968,916,515.2058180969968" stroke="#3feb34" stroke-width="44.02916497646072"/><title>Verduras y frutas → Banana: 15064.400000000001</title></g><g style="mix-blend-mode: multiply;"><path d="M462,903.4014057769347C689,903.4014057769347,689,860.3509849839567,916,860.3509849839567" stroke="#71f2ec" stroke-width="25.851541662249744"/><title>Higiene → Espuma de afeitar: 8845</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1229.2401089054727C689,1229.2401089054727,689,1159.2614040390547,916,1159.2614040390547" stroke="#3e7bf7" stroke-width="12.801554831051881"/><title>Otros → Papel toalla: 4380</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1061.6962253305435C689,1061.6962253305435,689,889.9676734690102,916,889.9676734690102" stroke="#b6c5d7" stroke-width="23.381835307857315"/><title>Utensilios → Vaporera: 8000</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1096.4299416803656C689,1096.4299416803656,689,1141.430621913868,916,1141.430621913868" stroke="#b6c5d7" stroke-width="12.860009419321523"/><title>Utensilios → Taza: 4400</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1030.27688413561C689,1030.27688413561,689,607.5747629736339,916,607.5747629736339" stroke="#b6c5d7" stroke-width="39.45684708200922"/><title>Utensilios → Sarten: 13500</title></g><g style="mix-blend-mode: multiply;"><path d="M462,829.2631454774839C689,829.2631454774839,689,688.3468290152209,916,688.3468290152209" stroke="#d2ad25" stroke-width="32.29250660721107"/><title>Cereales → Chocolate en polvo: 11048.75</title></g><g style="mix-blend-mode: multiply;"><path d="M462,668.1795890403542C689,668.1795890403542,689,762.5149879470453,916,762.5149879470453" stroke="#3feb34" stroke-width="31.743764159829787"/><title>Verduras y frutas → Jugo de fruta: 10861</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1104.8912433323965C689,1104.8912433323965,689,1327.982289301771,916,1327.982289301771" stroke="#b6c5d7" stroke-width="4.062593884740209"/><title>Utensilios → Jabonera: 1390</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1081.6935399775884C689,1081.6935399775884,689,1063.7666319505715,916,1063.7666319505715" stroke="#b6c5d7" stroke-width="16.612793986232624"/><title>Utensilios → Corta uñas: 5684</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1283.4844461108803C689,1283.4844461108803,689,1176.0692308695227,916,1176.0692308695227" stroke="#f18c31" stroke-width="10.814098829884008"/><title>Snacks → Empanada: 3700</title></g><g style="mix-blend-mode: multiply;"><path d="M462,179.4089781113742C689,179.4089781113742,689,69.40897811137444,916,69.40897811137444" stroke="#e1596a" stroke-width="138.81795622274888"/><title>Carnes, huevos y lacteos → Milanesa de carne: 47496</title></g><g style="mix-blend-mode: multiply;"><path d="M462,636.2326951862874C689,636.2326951862874,689,725.5680940929784,916,725.5680940929784" stroke="#3feb34" stroke-width="32.15002354830381"/><title>Verduras y frutas → Brocoli: 11000</title></g><g style="mix-blend-mode: multiply;"><path d="M462,732.8807807489621C689,732.8807807489621,689,1205.9079874458862,916,1205.9079874458862" stroke="#3feb34" stroke-width="8.696581369816181"/><title>Verduras y frutas → Zanahoria: 2975.5</title></g><g style="mix-blend-mode: multiply;"><path d="M462,972.2536039350408C689,972.2536039350408,689,1219.3480993096694,916,1219.3480993096694" stroke="#71f2ec" stroke-width="8.183642357750061"/><title>Higiene → Tapones para oidos: 2800</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1178.7945892552384C689,1178.7945892552384,689,649.751881113127,916,649.751881113127" stroke="#8eea1e" stroke-width="34.897389196977045"/><title>Salud → Barra de proteina: 11940</title></g><g style="mix-blend-mode: multiply;"><path d="M462,536.3955327682061C689,536.3955327682061,689,1041.8272229523823,916,1041.8272229523823" stroke="#e1596a" stroke-width="17.266024010145888"/><title>Carnes, huevos y lacteos → Suprema de pollo: 5907.5</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1265.0931712765437C689,1265.0931712765437,689,829.4409887334373,916,829.4409887334373" stroke="#f18c31" stroke-width="25.968450838789032"/><title>Snacks → Galletas: 8885</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1141.032925233049C689,1141.032925233049,689,562.5333700089283,916,562.5333700089283" stroke="#8eea1e" stroke-width="40.62593884740209"/><title>Salud → Vitamina: 13900</title></g><g style="mix-blend-mode: multiply;"><path d="M462,720.3269272357029C689,720.3269272357029,689,1085.2785917720391,916,1085.2785917720391" stroke="#3feb34" stroke-width="16.411125656702353"/><title>Verduras y frutas → Manzana: 5615</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1112.2667510073188C689,1112.2667510073188,689,1370.7597909592764,916,1370.7597909592764" stroke="#b6c5d7" stroke-width="2.773670213394574"/><title>Utensilios → Portaminas: 949</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1115.4174533150524C689,1115.4174533150524,689,1404.6974975057046,916,1404.6974975057046" stroke="#b6c5d7" stroke-width="1"/><title>Utensilios → Goma de borrar: 207</title></g><g style="mix-blend-mode: multiply;"><path d="M462,882.4199213440141C689,882.4199213440141,689,1279.5209557538672,916,1279.5209557538672" stroke="#d2ad25" stroke-width="6.111427203591206"/><title>Cereales → Cereal: 2091</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1239.358232793771C689,1239.358232793771,689,1232.157266961317,916,1232.157266961317" stroke="#3e7bf7" stroke-width="7.434692945545256"/><title>Otros → Salsa bolognesa: 2543.75</title></g><g style="mix-blend-mode: multiply;"><path d="M462,872.682117620645C689,872.682117620645,689,1105.1662447219637,916,1105.1662447219637" stroke="#d2ad25" stroke-width="13.364180243147198"/><title>Cereales → Fideos: 4572.5</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1294.1231811759553C689,1294.1231811759553,689,1385.5954467738825,916,1385.5954467738825" stroke="#f18c31" stroke-width="1.7536376480892988"/><title>Snacks → Pionono: 600</title></g><g style="mix-blend-mode: multiply;"><path d="M462,560.8112836060826C689,560.8112836060826,689,1290.2071258277967,916,1290.2071258277967" stroke="#e1596a" stroke-width="5.260912944267896"/><title>Carnes, huevos y lacteos → Jamon: 1800</title></g><g style="mix-blend-mode: multiply;"><path d="M462,565.4876506676542C689,565.4876506676542,689,1318.9050817699633,916,1318.9050817699633" stroke="#e1596a" stroke-width="4.091821178875031"/><title>Carnes, huevos y lacteos → Queso: 1400</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1114.3842684673866C689,1114.3842684673866,689,1398.6643126580389,916,1398.6643126580389" stroke="#b6c5d7" stroke-width="1.4613647067410822"/><title>Utensilios → Minas: 500</title></g><g style="mix-blend-mode: multiply;"><path d="M462,1108.9012280876939C689,1108.9012280876939,689,1336.9922740570685,916,1336.9922740570685" stroke="#b6c5d7" stroke-width="3.957375625854851"/><title>Utensilios → Tijera: 1354</title></g><g style="mix-blend-mode: multiply;"><path d="M462,963.1200745179091C689,963.1200745179091,689,1191.5179885227212,916,1191.5179885227212" stroke="#71f2ec" stroke-width="10.083416476513468"/><title>Higiene → Maquina de afeitar: 3450</title></g><g style="mix-blend-mode: multiply;"><path d="M462,517.5329678159455C689,517.5329678159455,689,969.1508113890785,916,969.1508113890785" stroke="#e1596a" stroke-width="20.459105894375153"/><title>Carnes, huevos y lacteos → Milanesa napolitana: 7000</title></g><g style="mix-blend-mode: multiply;"><path d="M462,999.269414859151C689,999.269414859151,689,1300.170943327184,916,1300.170943327184" stroke="#71f2ec" stroke-width="4.666722054506972"/><title>Higiene → Antitranspirante: 1596.7</title></g></g><g><text x="466" y="340.5642592178373" text-anchor="start"><tspan alignment-baseline="middle" x="466" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Carnes, huevos y lacteos</tspan></text><text x="8" y="295.17515046909944" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Feria Sabados</tspan></text><text x="8" y="593.5060175694671" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Coto</tspan></text><text x="8" y="776.5730586538677" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Dia</tspan></text><text x="466" y="656.6787949347726" text-anchor="start"><tspan alignment-baseline="middle" x="466" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Verduras y frutas</tspan></text><text x="466" y="813.8523531898401" text-anchor="start"><tspan alignment-baseline="middle" x="466" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Cereales</tspan></text><text x="912" y="69.4089781113745" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Milanesa de carne</tspan></text><text x="8" y="924.8049208368575" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Farmacity</tspan></text><text x="466" y="948.0120477702077" text-anchor="start"><tspan alignment-baseline="middle" x="466" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Higiene</tspan></text><text x="912" y="199.26213319650566" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Huevo</tspan></text><text x="8" y="1045.3009577047255" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Carrefour Express</tspan></text><text x="466" y="1063.1342082019767" text-anchor="start"><tspan alignment-baseline="middle" x="466" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Utensilios</tspan></text><text x="912" y="302.1194980540088" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Milanesa de pollo</tspan></text><text x="466" y="1159.912295879437" text-anchor="start"><tspan alignment-baseline="middle" x="466" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Salud</tspan></text><text x="8" y="1142.8258027473303" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Bazar La Luna</tspan></text><text x="912" y="384.97659630775934" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Pan</tspan></text><text x="912" y="456.805871143265" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Leche</tspan></text><text x="912" y="515.2058180969968" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Banana</tspan></text><text x="466" y="1225.6067909033377" text-anchor="start"><tspan alignment-baseline="middle" x="466" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Otros</tspan></text><text x="466" y="1273.5544729285746" text-anchor="start"><tspan alignment-baseline="middle" x="466" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Snacks</tspan></text><text x="912" y="562.5333700089283" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Vitamina</tspan></text><text x="912" y="607.5747629736338" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Sarten</tspan></text><text x="912" y="649.751881113127" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Barra de proteina</tspan></text><text x="912" y="688.3468290152209" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Chocolate en polvo</tspan></text><text x="912" y="725.5680940929784" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Brocoli</tspan></text><text x="912" y="762.5149879470453" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Jugo de fruta</tspan></text><text x="912" y="797.4218166705014" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Mandarina</tspan></text><text x="912" y="829.4409887334373" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Galletas</tspan></text><text x="912" y="860.3509849839567" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Espuma de afeitar</tspan></text><text x="912" y="889.9676734690102" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Vaporera</tspan></text><text x="912" y="917.4946104234239" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Shampoo</tspan></text><text x="912" y="943.6259440829" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Arroz</tspan></text><text x="8" y="1195.9047015991118" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Gastronovo Belgrano</tspan></text><text x="912" y="969.1508113890785" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Milanesa napolitana</tspan></text><text x="912" y="994.4199398715773" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Acondicionador</tspan></text><text x="912" y="1018.826863177099" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Aceite de girasol</tspan></text><text x="8" y="1219.7672665513724" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Res</tspan></text><text x="912" y="1041.8272229523823" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Suprema de pollo</tspan></text><text x="912" y="1063.7666319505715" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Corta uñas</tspan></text><text x="912" y="1085.278591772039" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Manzana</tspan></text><text x="8" y="1241.5839209141955" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Fruteria Colon</tspan></text><text x="912" y="1105.1662447219637" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Fideos</tspan></text><text x="912" y="1123.4244760238723" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Dulce de leche</tspan></text><text x="912" y="1141.430621913868" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Taza</tspan></text><text x="912" y="1159.2614040390547" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Papel toalla</tspan></text><text x="8" y="1260.1746126868875" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Empanadaza</tspan></text><text x="912" y="1176.0692308695225" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Empanada</tspan></text><text x="912" y="1191.5179885227212" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Maquina de afeitar</tspan></text><text x="8" y="1275.2580291634008" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Supermercado Orient</tspan></text><text x="8" y="1289.3331039922627" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Mercado la Oficina</tspan></text><text x="8" y="1303.1159058797766" text-anchor="start"><tspan alignment-baseline="middle" x="8" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tienda peruana</tspan></text><text x="912" y="1205.9079874458862" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Zanahoria</tspan></text><text x="912" y="1219.3480993096694" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tapones para oidos</tspan></text><text x="912" y="1232.157266961317" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Salsa bolognesa</tspan></text><text x="912" y="1244.5280252009425" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Jabon</tspan></text><text x="912" y="1256.6229508521706" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Crema dental</tspan></text><text x="912" y="1268.2648534443088" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Detergente</tspan></text><text x="912" y="1279.5209557538672" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Cereal</tspan></text><text x="912" y="1290.2071258277965" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Jamon</tspan></text><text x="912" y="1300.170943327184" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Antitranspirante</tspan></text><text x="912" y="1309.6817377674815" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Budin</tspan></text><text x="912" y="1318.9050817699635" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Queso</tspan></text><text x="912" y="1327.982289301771" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Jabonera</tspan></text><text x="912" y="1336.9922740570687" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tijera</tspan></text><text x="912" y="1345.9438042240963" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Lavavajillas</tspan></text><text x="912" y="1354.7141251674884" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Atun</tspan></text><text x="912" y="1362.9422798046794" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Te</tspan></text><text x="912" y="1370.7597909592764" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Portaminas</tspan></text><text x="912" y="1378.4326270079057" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Sal</tspan></text><text x="912" y="1385.5954467738825" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Pionono</tspan></text><text x="912" y="1392.2029479512976" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Bolsa de tela</tspan></text><text x="912" y="1398.6643126580389" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Minas</tspan></text><text x="912" y="1404.6974975057046" text-anchor="end"><tspan alignment-baseline="middle" x="912" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Goma de borrar</tspan></text></g><g><text x="460" y="105.99999999999977" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Categoria</text><text x="2" y="93.5" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Tienda</text><text x="918" y="-4" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">Subcategoria</text></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1100"
+   height="1760"
+   version="1.1"
+   id="svg294"
+   sodipodi:docname="rawgraphs.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs294" />
+  <sodipodi:namedview
+     id="namedview294"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.2422581"
+     inkscape:cx="451.99948"
+     inkscape:cy="1261.0101"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="visualization" />
+  <rect
+     width="1100"
+     height="1760"
+     x="0"
+     y="0"
+     fill="#FFFFFF"
+     id="background" />
+  <g
+     transform="translate(30,25)"
+     id="visualization">
+    <g
+       id="g92">
+      <rect
+         x="508"
+         y="142.5"
+         height="577.1725086967023"
+         width="4"
+         fill="black"
+         id="rect1">
+        <title
+           id="title1">Carnes, huevos y lacteos: 266120.32999999996</title>
+      </rect>
+      <rect
+         x="0"
+         y="115"
+         height="354.43731150674154"
+         width="4"
+         fill="black"
+         id="rect2">
+        <title
+           id="title2">Feria Sabados: 163422.5</title>
+      </rect>
+      <rect
+         x="508"
+         y="724.6725086967023"
+         height="267.44148156154597"
+         width="4"
+         fill="black"
+         id="rect3">
+        <title
+           id="title3">Verduras y frutas: 123310.81999999999</title>
+      </rect>
+      <rect
+         x="0"
+         y="474.43731150674154"
+         height="197.15242400016808"
+         width="4"
+         fill="black"
+         id="rect4">
+        <title
+           id="title4">Coto: 90902.23</title>
+      </rect>
+      <rect
+         x="0"
+         y="676.5897355069096"
+         height="191.51471871537717"
+         width="4"
+         fill="black"
+         id="rect5">
+        <title
+           id="title5">Dia: 88302.81999999999</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1.1368683772161603e-13"
+         height="145.39905682150226"
+         width="4"
+         fill="black"
+         id="rect6">
+        <title
+           id="title6">Huevo: 67040</title>
+      </rect>
+      <rect
+         x="1016"
+         y="150.39905682150237"
+         height="144.6061287908649"
+         width="4"
+         fill="black"
+         id="rect7">
+        <title
+           id="title7">Milanesa de carne: 66674.4</title>
+      </rect>
+      <rect
+         x="508"
+         y="997.1139902582482"
+         height="144.39163048060743"
+         width="4"
+         fill="black"
+         id="rect8">
+        <title
+           id="title8">Higiene: 66575.5</title>
+      </rect>
+      <rect
+         x="508"
+         y="1146.5056207388557"
+         height="135.9011193577985"
+         width="4"
+         fill="black"
+         id="rect9">
+        <title
+           id="title9">Cereales: 62660.729999999996</title>
+      </rect>
+      <rect
+         x="1016"
+         y="300.00518561236726"
+         height="119.72649364136919"
+         width="4"
+         fill="black"
+         id="rect10">
+        <title
+           id="title10">Milanesa de pollo: 55203</title>
+      </rect>
+      <rect
+         x="0"
+         y="873.1044542222868"
+         height="119.39791432889217"
+         width="4"
+         fill="black"
+         id="rect11">
+        <title
+           id="title11">Farmacity: 55051.5</title>
+      </rect>
+      <rect
+         x="0"
+         y="997.502368551179"
+         height="103.5776988134653"
+         width="4"
+         fill="black"
+         id="rect12">
+        <title
+           id="title12">Carrefour Express: 47757.18</title>
+      </rect>
+      <rect
+         x="508"
+         y="1287.4067400966542"
+         height="91.05659310253509"
+         width="4"
+         fill="black"
+         id="rect13">
+        <title
+           id="title13">Utensilios: 41984</title>
+      </rect>
+      <rect
+         x="508"
+         y="1383.4633331991893"
+         height="89.20548786689733"
+         width="4"
+         fill="black"
+         id="rect14">
+        <title
+           id="title14">Salud: 41130.5</title>
+      </rect>
+      <rect
+         x="0"
+         y="1106.0800673646443"
+         height="79.86754575554619"
+         width="4"
+         fill="black"
+         id="rect15">
+        <title
+           id="title15">Carniceria X: 36825</title>
+      </rect>
+      <rect
+         x="0"
+         y="1190.9476131201905"
+         height="67.01716670322821"
+         width="4"
+         fill="black"
+         id="rect16">
+        <title
+           id="title16">Tienda Milagros: 30900</title>
+      </rect>
+      <rect
+         x="1016"
+         y="424.73167925373644"
+         height="60.72752969871817"
+         width="4"
+         fill="black"
+         id="rect17">
+        <title
+           id="title17">Brocoli: 28000</title>
+      </rect>
+      <rect
+         x="0"
+         y="1262.9647798234187"
+         height="59.38610194448029"
+         width="4"
+         fill="black"
+         id="rect18">
+        <title
+           id="title18">Feria Jueves: 27381.5</title>
+      </rect>
+      <rect
+         x="508"
+         y="1477.6688210660866"
+         height="59.15512044759066"
+         width="4"
+         fill="black"
+         id="rect19">
+        <title
+           id="title19">Snacks: 27275</title>
+      </rect>
+      <rect
+         x="1016"
+         y="490.4592089524546"
+         height="58.35807162029488"
+         width="4"
+         fill="black"
+         id="rect20">
+        <title
+           id="title20">Suprema de pollo: 26907.5</title>
+      </rect>
+      <rect
+         x="1016"
+         y="553.8172805727495"
+         height="58.02511125031822"
+         width="4"
+         fill="black"
+         id="rect21">
+        <title
+           id="title21">Pan: 26753.98</title>
+      </rect>
+      <rect
+         x="1016"
+         y="616.8423918230677"
+         height="56.45578175248261"
+         width="4"
+         fill="black"
+         id="rect22">
+        <title
+           id="title22">Banana: 26030.399999999998</title>
+      </rect>
+      <rect
+         x="0"
+         y="1327.350881767899"
+         height="56.172964971314286"
+         width="4"
+         fill="black"
+         id="rect23">
+        <title
+           id="title23">Bazar La Luna: 25900</title>
+      </rect>
+      <rect
+         x="1016"
+         y="678.2981735755503"
+         height="55.02890168859744"
+         width="4"
+         fill="black"
+         id="rect24">
+        <title
+           id="title24">Barra de proteina: 25372.5</title>
+      </rect>
+      <rect
+         x="0"
+         y="1388.5238467392132"
+         height="54.40731204532403"
+         width="4"
+         fill="black"
+         id="rect25">
+        <title
+           id="title25">Res: 25085.9</title>
+      </rect>
+      <rect
+         x="1016"
+         y="738.3270752641478"
+         height="46.57964190917653"
+         width="4"
+         fill="black"
+         id="rect26">
+        <title
+           id="title26">Leche: 21476.75</title>
+      </rect>
+      <rect
+         x="508"
+         y="1541.8239415136773"
+         height="40.676058486322745"
+         width="4"
+         fill="black"
+         id="rect27">
+        <title
+           id="title27">Otros: 18754.75</title>
+      </rect>
+      <rect
+         x="1016"
+         y="789.9067171733243"
+         height="37.51009379069035"
+         width="4"
+         fill="black"
+         id="rect28">
+        <title
+           id="title28">Shampoo: 17295</title>
+      </rect>
+      <rect
+         x="1016"
+         y="832.4168109640146"
+         height="36.16714784821011"
+         width="4"
+         fill="black"
+         id="rect29">
+        <title
+           id="title29">Acondicionador: 16675.8</title>
+      </rect>
+      <rect
+         x="1016"
+         y="873.5839588122248"
+         height="35.32824040222931"
+         width="4"
+         fill="black"
+         id="rect30">
+        <title
+           id="title30">Jugo de fruta: 16289</title>
+      </rect>
+      <rect
+         x="1016"
+         y="913.9121992144541"
+         height="30.146880814720816"
+         width="4"
+         fill="black"
+         id="rect31">
+        <title
+           id="title31">Vitamina: 13900</title>
+      </rect>
+      <rect
+         x="1016"
+         y="949.0590800291749"
+         height="29.279344676167625"
+         width="4"
+         fill="black"
+         id="rect32">
+        <title
+           id="title32">Sarten: 13500</title>
+      </rect>
+      <rect
+         x="1016"
+         y="983.3384247053425"
+         height="28.616763950347718"
+         width="4"
+         fill="black"
+         id="rect33">
+        <title
+           id="title33">Arroz: 13194.5</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1016.9551886556902"
+         height="27.945507863142097"
+         width="4"
+         fill="black"
+         id="rect34">
+        <title
+           id="title34">Galletas: 12885</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1049.9006965188323"
+         height="27.830819585625477"
+         width="4"
+         fill="black"
+         id="rect35">
+        <title
+           id="title35">Mandarina: 12832.12</title>
+      </rect>
+      <rect
+         x="0"
+         y="1447.9311587845373"
+         height="27.327388364423086"
+         width="4"
+         fill="black"
+         id="rect36">
+        <title
+           id="title36">Open 25 HS!: 12600</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1082.7315161044578"
+         height="25.59231608731693"
+         width="4"
+         fill="black"
+         id="rect37">
+        <title
+           id="title37">Champiñones: 11800</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1113.3238321917747"
+         height="25.03774361074693"
+         width="4"
+         fill="black"
+         id="rect38">
+        <title
+           id="title38">Manzana: 11544.3</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1143.3615758025217"
+         height="23.96297477709686"
+         width="4"
+         fill="black"
+         id="rect39">
+        <title
+           id="title39">Chocolate en polvo: 11048.75</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1172.3245505796185"
+         height="19.18339286375567"
+         width="4"
+         fill="black"
+         id="rect40">
+        <title
+           id="title40">Espuma de afeitar: 8845</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1196.5079434433742"
+         height="19.038080560548224"
+         width="4"
+         fill="black"
+         id="rect41">
+        <title
+           id="title41">Aceite de girasol: 8778</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1220.5460240039224"
+         height="18.65202697889208"
+         width="4"
+         fill="black"
+         id="rect42">
+        <title
+           id="title42">Alfajores: 8600</title>
+      </rect>
+      <rect
+         x="0"
+         y="1480.2585471489604"
+         height="18.435142944253812"
+         width="4"
+         fill="black"
+         id="rect43">
+        <title
+           id="title43">Tienda peruana: 8500</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1244.1980509828145"
+         height="17.600139410896418"
+         width="4"
+         fill="black"
+         id="rect44">
+        <title
+           id="title44">Crema dental: 8115</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1266.798190393711"
+         height="17.350722771062237"
+         width="4"
+         fill="black"
+         id="rect45">
+        <title
+           id="title45">Vaporera: 8000</title>
+      </rect>
+      <rect
+         x="0"
+         y="1503.6936900932142"
+         height="15.181882424679543"
+         width="4"
+         fill="black"
+         id="rect46">
+        <title
+           id="title46">Gastronovo Belgrano: 7000</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1289.1489131647731"
+         height="15.181882424679543"
+         width="4"
+         fill="black"
+         id="rect47">
+        <title
+           id="title47">Milanesa napolitana: 7000</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1309.3307955894527"
+         height="13.92395502377758"
+         width="4"
+         fill="black"
+         id="rect48">
+        <title
+           id="title48">Dulce de leche: 6420</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1328.2547506132303"
+         height="13.203900028778207"
+         width="4"
+         fill="black"
+         id="rect49">
+        <title
+           id="title49">Zanahoria: 6088</title>
+      </rect>
+      <rect
+         x="0"
+         y="1523.8755725178937"
+         height="13.013042078296849"
+         width="4"
+         fill="black"
+         id="rect50">
+        <title
+           id="title50">Vendedor random: 6000</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1346.4586506420085"
+         height="13.013042078296849"
+         width="4"
+         fill="black"
+         id="rect51">
+        <title
+           id="title51">Encendedor: 6000</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1364.4716927203053"
+         height="12.327688528839644"
+         width="4"
+         fill="black"
+         id="rect52">
+        <title
+           id="title52">Corta uñas: 5684</title>
+      </rect>
+      <rect
+         x="0"
+         y="1541.8886145961906"
+         height="12.145505939743543"
+         width="4"
+         fill="black"
+         id="rect53">
+        <title
+           id="title53">Fruteria Colon: 5600</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1381.799381249145"
+         height="11.928621905105274"
+         width="4"
+         fill="black"
+         id="rect54">
+        <title
+           id="title54">Coliflor: 5500</title>
+      </rect>
+      <rect
+         x="0"
+         y="1559.034120535934"
+         height="10.844201731913927"
+         width="4"
+         fill="black"
+         id="rect55">
+        <title
+           id="title55">Mas Que Tacos: 5000</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1398.7280031542502"
+         height="10.844201731913927"
+         width="4"
+         fill="black"
+         id="rect56">
+        <title
+           id="title56">Tortillas de maiz: 5000</title>
+      </rect>
+      <rect
+         x="0"
+         y="1574.878322267848"
+         height="10.156679342110692"
+         width="4"
+         fill="black"
+         id="rect57">
+        <title
+           id="title57">Mercado la Oficina: 4683</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1414.5722048861642"
+         height="9.917022483835353"
+         width="4"
+         fill="black"
+         id="rect58">
+        <title
+           id="title58">Fideos: 4572.5</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1429.4892273699995"
+         height="9.54289752408431"
+         width="4"
+         fill="black"
+         id="rect59">
+        <title
+           id="title59">Taza: 4400</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1444.0321248940838"
+         height="9.499520717156656"
+         width="4"
+         fill="black"
+         id="rect60">
+        <title
+           id="title60">Papel toalla: 4380</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1458.5316456112405"
+         height="9.32601348944604"
+         width="4"
+         fill="black"
+         id="rect61">
+        <title
+           id="title61">Remolacha: 4300</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1472.8576591006865"
+         height="8.566919368211984"
+         width="4"
+         fill="black"
+         id="rect62">
+        <title
+           id="title62">Atun: 3950</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1486.4245784688985"
+         height="8.137488979628188"
+         width="4"
+         fill="black"
+         id="rect63">
+        <title
+           id="title63">Leche en polvo: 3752</title>
+      </rect>
+      <rect
+         x="0"
+         y="1590.0350016099587"
+         height="8.024709281616424"
+         width="4"
+         fill="black"
+         id="rect64">
+        <title
+           id="title64">Empanadaza: 3700</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1499.5620674485267"
+         height="8.024709281616197"
+         width="4"
+         fill="black"
+         id="rect65">
+        <title
+           id="title65">Empanada: 3700</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1512.586776730143"
+         height="7.482499195020637"
+         width="4"
+         fill="black"
+         id="rect66">
+        <title
+           id="title66">Maquina de afeitar: 3450</title>
+      </rect>
+      <rect
+         x="0"
+         y="1603.0597108915752"
+         height="6.9402891084248495"
+         width="4"
+         fill="black"
+         id="rect67">
+        <title
+           id="title67">Supermercado Orient: 3200</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1525.0692759251635"
+         height="6.072752969871772"
+         width="4"
+         fill="black"
+         id="rect68">
+        <title
+           id="title68">Tapones para oidos: 2800</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1536.1420288950353"
+         height="5.516987631111306"
+         width="4"
+         fill="black"
+         id="rect69">
+        <title
+           id="title69">Salsa bolognesa: 2543.75</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1546.6590165261466"
+         height="5.422100865956963"
+         width="4"
+         fill="black"
+         id="rect70">
+        <title
+           id="title70">Jabon: 2500</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1557.0811173921036"
+         height="5.205216831318694"
+         width="4"
+         fill="black"
+         id="rect71">
+        <title
+           id="title71">Grasa bovina: 2400</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1567.2863342234223"
+         height="4.749760358578442"
+         width="4"
+         fill="black"
+         id="rect72">
+        <title
+           id="title72">Detergente: 2190</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1577.0360945820007"
+         height="4.547364177453801"
+         width="4"
+         fill="black"
+         id="rect73">
+        <title
+           id="title73">Crema de leche: 2096.68</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1586.5834587594545"
+         height="4.53504516428643"
+         width="4"
+         fill="black"
+         id="rect74">
+        <title
+           id="title74">Cereal: 2091</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1596.118503923741"
+         height="4.029705363579296"
+         width="4"
+         fill="black"
+         id="rect75">
+        <title
+           id="title75">Te: 1858</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1605.1482092873202"
+         height="3.9039126234890773"
+         width="4"
+         fill="black"
+         id="rect76">
+        <title
+           id="title76">Jamon: 1800</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1614.0521219108093"
+         height="3.812821328941027"
+         width="4"
+         fill="black"
+         id="rect77">
+        <title
+           id="title77">Papel higienico: 1758</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1622.8649432397503"
+         height="3.462987381069297"
+         width="4"
+         fill="black"
+         id="rect78">
+        <title
+           id="title78">Antitranspirante: 1596.7</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1631.3279306208196"
+         height="3.2315721161103284"
+         width="4"
+         fill="black"
+         id="rect79">
+        <title
+           id="title79">Budin: 1490</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1639.55950273693"
+         height="3.0363764849359995"
+         width="4"
+         fill="black"
+         id="rect80">
+        <title
+           id="title80">Queso: 1400</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1647.595879221866"
+         height="3.014688081472059"
+         width="4"
+         fill="black"
+         id="rect81">
+        <title
+           id="title81">Jabonera: 1390</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1655.610567303338"
+         height="2.9366098290022364"
+         width="4"
+         fill="black"
+         id="rect82">
+        <title
+           id="title82">Tijera: 1354</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1663.5471771323403"
+         height="2.927934467616751"
+         width="4"
+         fill="black"
+         id="rect83">
+        <title
+           id="title83">Lavavajillas: 1350</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1671.475111599957"
+         height="2.81949245029773"
+         width="4"
+         fill="black"
+         id="rect84">
+        <title
+           id="title84">Cartulina: 1300</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1679.2946040502547"
+         height="2.0582294887171884"
+         width="4"
+         fill="black"
+         id="rect85">
+        <title
+           id="title85">Portaminas: 949</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1686.352833538972"
+         height="2.010515001096792"
+         width="4"
+         fill="black"
+         id="rect86">
+        <title
+           id="title86">Jugo de manzana: 927</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1693.3633485400687"
+         height="1.908579504816771"
+         width="4"
+         fill="black"
+         id="rect87">
+        <title
+           id="title87">Sal: 880</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1700.2719280448855"
+         height="1.3013042078296166"
+         width="4"
+         fill="black"
+         id="rect88">
+        <title
+           id="title88">Pionono: 600</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1706.5732322527151"
+         height="1.0844201731913472"
+         width="4"
+         fill="black"
+         id="rect89">
+        <title
+           id="title89">Bolsa de tela: 500</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1712.6576524259065"
+         height="1.0844201731913472"
+         width="4"
+         fill="black"
+         id="rect90">
+        <title
+           id="title90">Minas: 500</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1718.7420725990978"
+         height="0.8089774492007109"
+         width="4"
+         fill="black"
+         id="rect91">
+        <title
+           id="title91">Cinta: 373</title>
+      </rect>
+      <rect
+         x="1016"
+         y="1724.5510500482985"
+         height="0.44894995170125185"
+         width="4"
+         fill="black"
+         id="rect92">
+        <title
+           id="title92">Goma de borrar: 207</title>
+      </rect>
+    </g>
+    <g
+       fill="none"
+       stroke-opacity="0.7"
+       id="g200">
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g93">
+        <path
+           d="M4,1069.2648061134687C256,1069.2648061134687,256,1256.486386906947,508,1256.486386906947"
+           stroke="#f8e71c"
+           stroke-width="19.30810118367279"
+           id="path92" />
+        <title
+           id="title93">Carrefour Express → Cereales: 8902.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g94">
+        <path
+           d="M4,1080.9337093870945C256,1080.9337093870945,256,1470.6539683842968,508,1470.6539683842968"
+           stroke="#f8e71c"
+           stroke-width="4.029705363579224"
+           id="path93" />
+        <title
+           id="title94">Carrefour Express → Salud: 1858</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g95">
+        <path
+           d="M4,1084.5643481269394C256,1084.5643481269394,256,1499.8560578095824,508,1499.8560578095824"
+           stroke="#f8e71c"
+           stroke-width="3.231572116110357"
+           id="path94" />
+        <title
+           id="title95">Carrefour Express → Snacks: 1490</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g96">
+        <path
+           d="M4,1035.1137038092384C256,1035.1137038092384,256,1117.008569026462,508,1117.008569026462"
+           stroke="#f8e71c"
+           stroke-width="48.99410342478723"
+           id="path95" />
+        <title
+           id="title96">Carrefour Express → Higiene: 22590</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g97">
+        <path
+           d="M4,1093.6301007748195C256,1093.6301007748195,256,1571.4215635106768,508,1571.4215635106768"
+           stroke="#f8e71c"
+           stroke-width="14.899933179649768"
+           id="path96" />
+        <title
+           id="title97">Carrefour Express → Otros: 6870</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g98">
+        <path
+           d="M4,820.7499940993649C256,820.7499940993649,256,1235.378690445863,508,1235.378690445863"
+           stroke="#f03f73"
+           stroke-width="22.90729173849503"
+           id="path97" />
+        <title
+           id="title98">Dia → Cereales: 10562</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g99">
+        <path
+           d="M4,694.495681406646C256,694.495681406646,256,488.2277908857548,508,488.2277908857548"
+           stroke="#f03f73"
+           stroke-width="35.81189179947263"
+           id="path98" />
+        <title
+           id="title99">Dia → Carnes, huevos y lacteos: 16512</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g100">
+        <path
+           d="M4,859.7891203342551C256,859.7891203342551,256,1555.65626303282,508,1555.65626303282"
+           stroke="#f03f73"
+           stroke-width="16.630667776063234"
+           id="path99" />
+        <title
+           id="title100">Dia → Otros: 7668</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g101">
+        <path
+           d="M4,803.5510901525494C256,803.5510901525494,256,1061.5101134028728,508,1061.5101134028728"
+           stroke="#f03f73"
+           stroke-width="11.490516155136023"
+           id="path100" />
+        <title
+           id="title101">Dia → Higiene: 5298</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g102">
+        <path
+           d="M4,1004.0595103240119C256,1004.0595103240119,256,512.690878558324,508,512.690878558324"
+           stroke="#f8e71c"
+           stroke-width="13.11428354566589"
+           id="path101" />
+        <title
+           id="title102">Carrefour Express → Carnes, huevos y lacteos: 6046.68</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g103">
+        <path
+           d="M4,257.73572087614417C256,257.73572087614417,256,285.23572087614417,508,285.23572087614417"
+           stroke="#c0e8e8"
+           stroke-width="285.47144175228834"
+           id="path102" />
+        <title
+           id="title103">Feria Sabados → Carnes, huevos y lacteos: 131624</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g104">
+        <path
+           d="M4,434.9543766295149C256,434.9543766295149,256,759.1554435739289,508,759.1554435739289"
+           stroke="#c0e8e8"
+           stroke-width="68.96586975445315"
+           id="path103" />
+        <title
+           id="title104">Feria Sabados → Verduras y frutas: 31798.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g105">
+        <path
+           d="M4,885.7325271391006C256,885.7325271391006,256,1079.8834443972546,508,1079.8834443972546"
+           stroke="#94f82a"
+           stroke-width="25.256145833627592"
+           id="path104" />
+        <title
+           id="title105">Farmacity → Higiene: 11645</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g106">
+        <path
+           d="M4,1355.437364253556C256,1355.437364253556,256,1330.835599192623,508,1330.835599192623"
+           stroke="#9b9b9b"
+           stroke-width="56.172964971314265"
+           id="path105" />
+        <title
+           id="title106">Bazar La Luna → Utensilios: 25900</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g107">
+        <path
+           d="M4,619.6853411307233C256,619.6853411307233,256,1185.2153326577356,508,1185.2153326577356"
+           stroke="#f48b4d"
+           stroke-width="77.41942383775974"
+           id="path106" />
+        <title
+           id="title107">Coto → Cereales: 35696.229999999996</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g108">
+        <path
+           d="M4,495.6125131236066C256,495.6125131236066,256,449.1466433691534,508,449.1466433691534"
+           stroke="#f48b4d"
+           stroke-width="42.35040323373015"
+           id="path107" />
+        <title
+           id="title108">Coto → Carnes, huevos y lacteos: 19526.75</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g109">
+        <path
+           d="M4,519.5562394426292C256,519.5562394426292,256,796.406903153313,508,796.406903153313"
+           stroke="#f48b4d"
+           stroke-width="5.537049404315263"
+           id="path108" />
+        <title
+           id="title109">Coto → Verduras y frutas: 2553</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g110">
+        <path
+           d="M4,661.5832483587858C256,661.5832483587858,256,1290.5949354058368,508,1290.5949354058368"
+           stroke="#f48b4d"
+           stroke-width="6.376390618365403"
+           id="path109" />
+        <title
+           id="title110">Coto → Utensilios: 2940</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g111">
+        <path
+           d="M4,1594.0473562507668C256,1594.0473562507668,256,1532.8115868728687,508,1532.8115868728687"
+           stroke="#dedd32"
+           stroke-width="8.024709281616323"
+           id="path110" />
+        <title
+           id="title111">Empanadaza → Snacks: 3700</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g112">
+        <path
+           d="M4,755.1037296906818C256,755.1037296906818,256,841.8775302397702,508,841.8775302397702"
+           stroke="#f03f73"
+           stroke-width="85.40420476859914"
+           id="path111" />
+        <title
+           id="title112">Dia → Verduras y frutas: 39377.81999999999</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g113">
+        <path
+           d="M4,902.8435930518875C256,902.8435930518875,256,1298.2661237109928,508,1298.2661237109928"
+           stroke="#94f82a"
+           stroke-width="8.965985991946454"
+           id="path112" />
+        <title
+           id="title113">Farmacity → Utensilios: 4134</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g114">
+        <path
+           d="M4,949.9144772995198C256,949.9144772995198,256,1426.0512244508484,508,1426.0512244508484"
+           stroke="#94f82a"
+           stroke-width="85.17578250331812"
+           id="path113" />
+        <title
+           id="title114">Farmacity → Salud: 39272.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g115">
+        <path
+           d="M4,1415.7275027618753C256,1415.7275027618753,256,670.3466811409359,508,670.3466811409359"
+           stroke="#ba2208"
+           stroke-width="54.40731204532403"
+           id="path114" />
+        <title
+           id="title115">Res → Carnes, huevos y lacteos: 25085.9</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g116">
+        <path
+           d="M4,841.8387132074179C256,841.8387132074179,256,1488.6051985127217,508,1488.6051985127217"
+           stroke="#f03f73"
+           stroke-width="19.27014647761109"
+           id="path115" />
+        <title
+           id="title116">Dia → Snacks: 8885</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g117">
+        <path
+           d="M4,1489.4761186210872C256,1489.4761186210872,256,970.7509128463776,508,970.7509128463776"
+           stroke="#900c00"
+           stroke-width="18.435142944253716"
+           id="path116" />
+        <title
+           id="title117">Tienda peruana → Verduras y frutas: 8500</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g118">
+        <path
+           d="M4,1578.142426989154C256,1578.142426989154,256,1375.199228477883,508,1375.199228477883"
+           stroke="#db3d11"
+           stroke-width="6.528209442612198"
+           id="path117" />
+        <title
+           id="title118">Mercado la Oficina → Utensilios: 3010</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g119">
+        <path
+           d="M4,1547.9613675660623C256,1547.9613675660623,256,986.0412372883761,508,986.0412372883761"
+           stroke="#ff821d"
+           stroke-width="12.145505939743625"
+           id="path118" />
+        <title
+           id="title119">Fruteria Colon → Verduras y frutas: 5600</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g120">
+        <path
+           d="M4,668.8312416913539C256,668.8312416913539,256,1544.5824353292328,508,1544.5824353292328"
+           stroke="#f48b4d"
+           stroke-width="5.516987631111222"
+           id="path119" />
+        <title
+           id="title120">Coto → Otros: 2543.75</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g121">
+        <path
+           d="M4,665.4220957718833C256,665.4220957718833,256,1478.3194731700014,508,1478.3194731700014"
+           stroke="#f48b4d"
+           stroke-width="1.3013042078296742"
+           id="path120" />
+        <title
+           id="title121">Coto → Snacks: 600</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g122">
+        <path
+           d="M4,1606.5298554457877C256,1606.5298554457877,256,716.2023641424898,508,716.2023641424898"
+           stroke="#9d1000"
+           stroke-width="6.9402891084249285"
+           id="path121" />
+        <title
+           id="title122">Supermercado Orient → Carnes, huevos y lacteos: 3200</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g123">
+        <path
+           d="M4,1511.2846313055538C256,1511.2846313055538,256,705.1412783759376,508,705.1412783759376"
+           stroke="#f65f18"
+           stroke-width="15.18188242467953"
+           id="path122" />
+        <title
+           id="title123">Gastronovo Belgrano → Carnes, huevos y lacteos: 7000</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g124">
+        <path
+           d="M4,551.6501966783152C256,551.6501966783152,256,1026.4394227917765,508,1026.4394227917765"
+           stroke="#f48b4d"
+           stroke-width="58.6508650670566"
+           id="path123" />
+        <title
+           id="title124">Coto → Higiene: 27042.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g125">
+        <path
+           d="M4,1298.0799316616158C256,1298.0799316616158,256,942.6844921339244,508,942.6844921339244"
+           stroke="#cccccc"
+           stroke-width="37.69769848065246"
+           id="path124"
+           style="stroke:#a5e3f3;stroke-opacity:0.69999999" />
+        <title
+           id="title125">Feria Jueves → Verduras y frutas: 17381.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g126">
+        <path
+           d="M4,1530.382093557042C256,1530.382093557042,256,1365.4286027174285,508,1365.4286027174285"
+           stroke="#cccccc"
+           stroke-width="13.01304207829674"
+           id="path125" />
+        <title
+           id="title126">Vendedor random → Utensilios: 6000</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g127">
+        <path
+           d="M4,1583.2207666602094C256,1583.2207666602094,256,1580.6857650502507,508,1580.6857650502507"
+           stroke="#db3d11"
+           stroke-width="3.6284698994984077"
+           id="path126" />
+        <title
+           id="title127">Mercado la Oficina → Otros: 1673</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g128">
+        <path
+           d="M4,1238.3367746886543C256,1238.3367746886543,256,904.207637758834,508,904.207637758834"
+           stroke="#cccccc"
+           stroke-width="39.2560102695285"
+           id="path127"
+           style="stroke:#51b747;stroke-opacity:0.69999999" />
+        <title
+           id="title128">Tienda Milagros → Verduras y frutas: 18100</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g129">
+        <path
+           d="M4,1204.8281913370404C256,1204.8281913370404,256,612.996144303553,508,612.996144303553"
+           stroke="#cccccc"
+           stroke-width="27.761156433699714"
+           id="path128"
+           style="stroke:#50b747;stroke-opacity:0.69999999" />
+        <title
+           id="title129">Tienda Milagros → Carnes, huevos y lacteos: 12800</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g130">
+        <path
+           d="M4,1319.6398313349205C256,1319.6398313349205,256,1268.8514879317618,508,1268.8514879317618"
+           stroke="#cccccc"
+           stroke-width="5.422100865956975"
+           id="path129"
+           style="stroke:#a5e3f3;stroke-opacity:0.69999999" />
+        <title
+           id="title130">Feria Jueves → Cereales: 2500</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g131">
+        <path
+           d="M4,1146.0138402424175C256,1146.0138402424175,256,559.1817932089301,508,559.1817932089301"
+           stroke="#cccccc"
+           stroke-width="79.86754575554625"
+           id="path130"
+           style="stroke:#e49e9e;stroke-opacity:0.69999999" />
+        <title
+           id="title131">Carniceria X → Carnes, huevos y lacteos: 36825</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g132">
+        <path
+           d="M4,1461.594852966749C256,1461.594852966749,256,1515.1355380498492,508,1515.1355380498492"
+           stroke="#cccccc"
+           stroke-width="27.327388364423154"
+           id="path131"
+           style="stroke:#f9e607;stroke-opacity:0.75609756" />
+        <title
+           id="title132">Open 25 HS! → Snacks: 12600</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g133">
+        <path
+           d="M4,1564.456221401891C256,1564.456221401891,256,1276.9846392306972,508,1276.9846392306972"
+           stroke="#cccccc"
+           stroke-width="10.84420173191395"
+           id="path132" />
+        <title
+           id="title133">Mas Que Tacos → Cereales: 5000</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g134">
+        <path
+           d="M4,1271.097931122354C256,1271.097931122354,256,635.0098738193384,508,635.0098738193384"
+           stroke="#cccccc"
+           stroke-width="16.266302597870926"
+           id="path133"
+           style="stroke:#a5e3f3;stroke-opacity:0.69999999" />
+        <title
+           id="title134">Feria Jueves → Carnes, huevos y lacteos: 7500</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g135">
+        <path
+           d="M512,1175.5181763640148C764,1175.5181763640148,764,582.8298361979087,1016,582.8298361979087"
+           stroke="#d2ad25"
+           stroke-width="58.02511125031824"
+           id="path134" />
+        <title
+           id="title135">Cereales → Pan: 26753.98</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g136">
+        <path
+           d="M512,1470.653968384297C764,1470.653968384297,764,1598.1333566055305,1016,1598.1333566055305"
+           stroke="#8eea1e"
+           stroke-width="4.029705363579224"
+           id="path135" />
+        <title
+           id="title136">Salud → Te: 1858</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g137">
+        <path
+           d="M512,1533.9068512477925C764,1533.9068512477925,764,1632.9437166788748,1016,1632.9437166788748"
+           stroke="#f18c31"
+           stroke-width="3.231572116110357"
+           id="path136" />
+        <title
+           id="title137">Snacks → Budin: 1490</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g138">
+        <path
+           d="M512,1098.7746944663525C764,1098.7746944663525,764,1252.9981206882626,1016,1252.9981206882626"
+           stroke="#71f2ec"
+           stroke-width="17.600139410896343"
+           id="path137" />
+        <title
+           id="title138">Higiene → Crema dental: 8115</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g139">
+        <path
+           d="M512,1123.8410667696717C764,1123.8410667696717,764,1549.370066959125,1016,1549.370066959125"
+           stroke="#71f2ec"
+           stroke-width="5.422100865956975"
+           id="path138" />
+        <title
+           id="title139">Higiene → Jabon: 2500</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g140">
+        <path
+           d="M512,1052.7076579730438C764,1052.7076579730438,764,850.5003848881197,1016,850.5003848881197"
+           stroke="#71f2ec"
+           stroke-width="36.16714784821013"
+           id="path139" />
+        <title
+           id="title140">Higiene → Acondicionador: 16675.8</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g141">
+        <path
+           d="M512,1015.8690371535935C764,1015.8690371535935,764,808.6617640686695,1016,808.6617640686695"
+           stroke="#71f2ec"
+           stroke-width="37.510093790690355"
+           id="path140" />
+        <title
+           id="title141">Higiene → Shampoo: 17295</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g142">
+        <path
+           d="M512,1581.1488124642037C764,1581.1488124642037,764,1707.115442339311,1016,1707.115442339311"
+           stroke="#3e7bf7"
+           stroke-width="1.084420173191395"
+           id="path141" />
+        <title
+           id="title142">Otros → Bolsa de tela: 500</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g143">
+        <path
+           d="M512,1218.839113964348C764,1218.839113964348,764,997.6468066805164,1016,997.6468066805164"
+           stroke="#d2ad25"
+           stroke-width="28.616763950347725"
+           id="path142" />
+        <title
+           id="title143">Cereales → Arroz: 13194.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g144">
+        <path
+           d="M512,633.8795718286194C764,633.8795718286194,764,761.6168962187361,1016,761.6168962187361"
+           stroke="#e1596a"
+           stroke-width="46.57964190917659"
+           id="path143" />
+        <title
+           id="title144">Carnes, huevos y lacteos → Leche: 21476.75</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g145">
+        <path
+           d="M512,1579.6523126251996C764,1579.6523126251996,764,1694.317638292477,1016,1694.317638292477"
+           stroke="#3e7bf7"
+           stroke-width="1.9085795048168552"
+           id="path144" />
+        <title
+           id="title145">Otros → Sal: 880</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g146">
+        <path
+           d="M512,215.19952841075113C764,215.19952841075113,764,72.69952841075124,1016,72.69952841075124"
+           stroke="#e1596a"
+           stroke-width="145.39905682150226"
+           id="path145" />
+        <title
+           id="title146">Carnes, huevos y lacteos → Huevo: 67040</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g147">
+        <path
+           d="M512,1140.0416535050472C764,1140.0416535050472,764,1665.0111443661488,1016,1665.0111443661488"
+           stroke="#71f2ec"
+           stroke-width="2.9279344676167667"
+           id="path146" />
+        <title
+           id="title147">Higiene → Lavavajillas: 1350</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g148">
+        <path
+           d="M512,679.3132527197761C764,679.3132527197761,764,1316.2927731013415,1016,1316.2927731013415"
+           stroke="#e1596a"
+           stroke-width="13.923955023777513"
+           id="path147" />
+        <title
+           id="title148">Carnes, huevos y lacteos → Dulce de leche: 6420</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g149">
+        <path
+           d="M512,1128.9269973819394C764,1128.9269973819394,764,1569.6612144027115,1016,1569.6612144027115"
+           stroke="#71f2ec"
+           stroke-width="4.74976035857831"
+           id="path148" />
+        <title
+           id="title149">Higiene → Detergente: 2190</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g150">
+        <path
+           d="M512,690.5586899157707C764,690.5586899157707,764,1477.1411187847925,1016,1477.1411187847925"
+           stroke="#e1596a"
+           stroke-width="8.566919368212021"
+           id="path149" />
+        <title
+           id="title150">Carnes, huevos y lacteos → Atun: 3950</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g151">
+        <path
+           d="M512,1551.3429817939514C764,1551.3429817939514,764,1206.0269837236483,1016,1206.0269837236483"
+           stroke="#3e7bf7"
+           stroke-width="19.03808056054813"
+           id="path150" />
+        <title
+           id="title151">Otros → Aceite de girasol: 8778</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g152">
+        <path
+           d="M512,492.36843243305157C764,492.36843243305157,764,359.86843243305185,1016,359.86843243305185"
+           stroke="#e1596a"
+           stroke-width="119.72649364136916"
+           id="path151" />
+        <title
+           id="title152">Carnes, huevos y lacteos → Milanesa de pollo: 55203</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g153">
+        <path
+           d="M512,891.0994703429451C764,891.0994703429451,764,1063.8161063116452,1016,1063.8161063116452"
+           stroke="#3feb34"
+           stroke-width="27.83081958562553"
+           id="path152" />
+        <title
+           id="title153">Verduras y frutas → Mandarina: 12832.12</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g154">
+        <path
+           d="M512,813.6279292716617C764,813.6279292716617,764,645.070282699309,1016,645.070282699309"
+           stroke="#3feb34"
+           stroke-width="56.45578175248257"
+           id="path153" />
+        <title
+           id="title154">Verduras y frutas → Banana: 26030.399999999998</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g155">
+        <path
+           d="M512,1080.3829283290265C764,1080.3829283290265,764,1181.9162470114964,1016,1181.9162470114964"
+           stroke="#71f2ec"
+           stroke-width="19.183392863755778"
+           id="path154" />
+        <title
+           id="title155">Higiene → Espuma de afeitar: 8845</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g156">
+        <path
+           d="M512,1565.6117824328037C764,1565.6117824328037,764,1448.781885252662,1016,1448.781885252662"
+           stroke="#3e7bf7"
+           stroke-width="9.49952071715662"
+           id="path155" />
+        <title
+           id="title156">Otros → Papel toalla: 4380</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g157">
+        <path
+           d="M512,1325.3614461583531C764,1325.3614461583531,764,1275.4735517792421,1016,1275.4735517792421"
+           stroke="#b6c5d7"
+           stroke-width="17.35072277106232"
+           id="path156" />
+        <title
+           id="title157">Utensilios → Vaporera: 8000</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g158">
+        <path
+           d="M512,1364.148986913063C764,1364.148986913063,764,1434.2606761320417,1016,1434.2606761320417"
+           stroke="#b6c5d7"
+           stroke-width="9.542897524084276"
+           id="path157" />
+        <title
+           id="title158">Utensilios → Taza: 4400</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g159">
+        <path
+           d="M512,1302.046412434738C764,1302.046412434738,764,963.6987523672587,1016,963.6987523672587"
+           stroke="#b6c5d7"
+           stroke-width="29.279344676167668"
+           id="path158" />
+        <title
+           id="title159">Utensilios → Sarten: 13500</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g160">
+        <path
+           d="M512,1245.1289833280703C764,1245.1289833280703,764,1155.34306319107,1016,1155.34306319107"
+           stroke="#d2ad25"
+           stroke-width="23.962974777096854"
+           id="path159" />
+        <title
+           id="title160">Cereales → Chocolate en polvo: 11048.75</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g161">
+        <path
+           d="M512,859.5199403490177C764,859.5199403490177,764,891.2480790133394,1016,891.2480790133394"
+           stroke="#3feb34"
+           stroke-width="35.32824040222927"
+           id="path160" />
+        <title
+           id="title161">Verduras y frutas → Jugo de fruta: 16289</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g162">
+        <path
+           d="M512,1370.4277797158413C764,1370.4277797158413,764,1649.1032232626021,1016,1649.1032232626021"
+           stroke="#b6c5d7"
+           stroke-width="3.014688081472078"
+           id="path161" />
+        <title
+           id="title162">Utensilios → Jabonera: 1390</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g163">
+        <path
+           d="M512,1353.2136938866008C764,1353.2136938866008,764,1370.6355369847251,1016,1370.6355369847251"
+           stroke="#b6c5d7"
+           stroke-width="12.32768852883978"
+           id="path162" />
+        <title
+           id="title163">Utensilios → Corta uñas: 5684</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g164">
+        <path
+           d="M512,1528.278710548929C764,1528.278710548929,764,1503.5744220893348,1016,1503.5744220893348"
+           stroke="#f18c31"
+           stroke-width="8.024709281616323"
+           id="path163" />
+        <title
+           id="title164">Snacks → Empanada: 3700</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g165">
+        <path
+           d="M512,360.2021212169346C764,360.2021212169346,764,222.7021212169347,1016,222.7021212169347"
+           stroke="#e1596a"
+           stroke-width="144.6061287908647"
+           id="path164" />
+        <title
+           id="title165">Carnes, huevos y lacteos → Milanesa de carne: 66674.4</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g166">
+        <path
+           d="M512,755.0362735460614C764,755.0362735460614,764,455.09544410309553,1016,455.09544410309553"
+           stroke="#3feb34"
+           stroke-width="60.72752969871812"
+           id="path165" />
+        <title
+           id="title166">Verduras y frutas → Brocoli: 28000</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g167">
+        <path
+           d="M512,962.2468898482108C764,962.2468898482108,764,1334.8567006276194,1016,1334.8567006276194"
+           stroke="#3feb34"
+           stroke-width="13.203900028778426"
+           id="path166" />
+        <title
+           id="title167">Verduras y frutas → Zanahoria: 6088</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g168">
+        <path
+           d="M512,1118.0936398517574C764,1118.0936398517574,764,1528.1056524100995,1016,1528.1056524100995"
+           stroke="#71f2ec"
+           stroke-width="6.072752969871813"
+           id="path167" />
+        <title
+           id="title168">Higiene → Tapones para oidos: 2800</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g169">
+        <path
+           d="M512,1410.9777840434879C764,1410.9777840434879,764,705.812624419849,1016,705.812624419849"
+           stroke="#8eea1e"
+           stroke-width="55.028901688597344"
+           id="path168" />
+        <title
+           id="title169">Salud → Barra de proteina: 25372.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g170">
+        <path
+           d="M512,581.4107150638836C764,581.4107150638836,764,519.6382447626021,1016,519.6382447626021"
+           stroke="#e1596a"
+           stroke-width="58.35807162029492"
+           id="path169" />
+        <title
+           id="title170">Carnes, huevos y lacteos → Suprema de pollo: 26907.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g171">
+        <path
+           d="M512,1491.6415749976577C764,1491.6415749976577,764,1030.9279425872614,1016,1030.9279425872614"
+           stroke="#f18c31"
+           stroke-width="27.94550786314225"
+           id="path170" />
+        <title
+           id="title171">Snacks → Galletas: 12885</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g172">
+        <path
+           d="M512,1453.565675295147C764,1453.565675295147,764,928.9856396218145,1016,928.9856396218145"
+           stroke="#8eea1e"
+           stroke-width="30.14688081472078"
+           id="path171" />
+        <title
+           id="title172">Salud → Vitamina: 13900</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g173">
+        <path
+           d="M512,943.1260680284482C764,943.1260680284482,764,1125.8427039971482,1016,1125.8427039971482"
+           stroke="#3feb34"
+           stroke-width="25.03774361074684"
+           id="path172" />
+        <title
+           id="title173">Verduras y frutas → Manzana: 11544.3</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g174">
+        <path
+           d="M512,1375.900848329938C764,1375.900848329938,764,1680.3237187946133,1016,1680.3237187946133"
+           stroke="#b6c5d7"
+           stroke-width="2.058229488717268"
+           id="path173" />
+        <title
+           id="title174">Utensilios → Portaminas: 949</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g175">
+        <path
+           d="M512,1378.2388582233386C764,1378.2388582233386,764,1724.7755250241491,1016,1724.7755250241491"
+           stroke="#b6c5d7"
+           stroke-width="1"
+           id="path174" />
+        <title
+           id="title175">Utensilios → Goma de borrar: 207</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g176">
+        <path
+           d="M512,1280.139217514511C764,1280.139217514511,764,1588.8509813415976,1016,1588.8509813415976"
+           stroke="#d2ad25"
+           stroke-width="4.535045164286414"
+           id="path175" />
+        <title
+           id="title176">Cereales → Cereal: 2091</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g177">
+        <path
+           d="M512,1573.1200366069377C764,1573.1200366069377,764,1538.9005227105908,1016,1538.9005227105908"
+           stroke="#3e7bf7"
+           stroke-width="5.516987631111222"
+           id="path176" />
+        <title
+           id="title177">Otros → Salsa bolognesa: 2543.75</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g178">
+        <path
+           d="M512,1272.9131836904503C764,1272.9131836904503,764,1419.5307161280818,1016,1419.5307161280818"
+           stroke="#d2ad25"
+           stroke-width="9.917022483835307"
+           id="path177" />
+        <title
+           id="title178">Cereales → Fideos: 4572.5</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g179">
+        <path
+           d="M512,1536.1732894097624C764,1536.1732894097624,764,1700.9225801488003,1016,1700.9225801488003"
+           stroke="#f18c31"
+           stroke-width="1.3013042078296742"
+           id="path178" />
+        <title
+           id="title179">Snacks → Pionono: 600</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g180">
+        <path
+           d="M512,714.6841759000221C764,714.6841759000221,764,1607.1001655990647,1016,1607.1001655990647"
+           stroke="#e1596a"
+           stroke-width="3.9039126234890222"
+           id="path179" />
+        <title
+           id="title180">Carnes, huevos y lacteos → Jamon: 1800</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g181">
+        <path
+           d="M512,718.1543204542346C764,718.1543204542346,764,1641.0776909793979,1016,1641.0776909793979"
+           stroke="#e1596a"
+           stroke-width="3.0363764849359063"
+           id="path180" />
+        <title
+           id="title181">Carnes, huevos y lacteos → Queso: 1400</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g182">
+        <path
+           d="M512,1377.4721731608925C764,1377.4721731608925,764,1713.1998625125022,1016,1713.1998625125022"
+           stroke="#b6c5d7"
+           stroke-width="1.084420173191395"
+           id="path181" />
+        <title
+           id="title182">Utensilios → Minas: 500</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g183">
+        <path
+           d="M512,1373.4034286710785C764,1373.4034286710785,764,1657.0788722178393,1016,1657.0788722178393"
+           stroke="#b6c5d7"
+           stroke-width="2.9366098290022977"
+           id="path182" />
+        <title
+           id="title183">Utensilios → Tijera: 1354</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g184">
+        <path
+           d="M512,1111.316013769311C764,1111.316013769311,764,1516.328026327653,1016,1516.328026327653"
+           stroke="#71f2ec"
+           stroke-width="7.482499195020626"
+           id="path183" />
+        <title
+           id="title184">Higiene → Maquina de afeitar: 3450</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g185">
+        <path
+           d="M512,664.7603339955475C764,664.7603339955475,764,1296.7398543771128,1016,1296.7398543771128"
+           stroke="#e1596a"
+           stroke-width="15.18188242467953"
+           id="path184" />
+        <title
+           id="title185">Carnes, huevos y lacteos → Milanesa napolitana: 7000</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g186">
+        <path
+           d="M512,1136.8461925807042C764,1136.8461925807042,764,1624.596436930285,1016,1624.596436930285"
+           stroke="#71f2ec"
+           stroke-width="3.462987381069401"
+           id="path185" />
+        <title
+           id="title186">Higiene → Antitranspirante: 1596.7</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g187">
+        <path
+           d="M512,710.4585374995505C764,710.4585374995505,764,1579.3097766707276,1016,1579.3097766707276"
+           stroke="#e1596a"
+           stroke-width="4.547364177453868"
+           id="path186" />
+        <title
+           id="title187">Carnes, huevos y lacteos → Crema de leche: 2096.68</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g188">
+        <path
+           d="M512,1340.5433285830325C764,1340.5433285830325,764,1352.9651716811568,1016,1352.9651716811568"
+           stroke="#b6c5d7"
+           stroke-width="13.01304207829674"
+           id="path187" />
+        <title
+           id="title188">Utensilios → Encendedor: 6000</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g189">
+        <path
+           d="M512,1577.2882766476423C764,1577.2882766476423,764,1672.8848578251059,1016,1672.8848578251059"
+           stroke="#3e7bf7"
+           stroke-width="2.819492450297627"
+           id="path188" />
+        <title
+           id="title189">Otros → Cartulina: 1300</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g190">
+        <path
+           d="M512,1582.0955112753998C764,1582.0955112753998,764,1719.1465613236983,1016,1719.1465613236983"
+           stroke="#3e7bf7"
+           stroke-width="1"
+           id="path189" />
+        <title
+           id="title190">Otros → Cinta: 373</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g191">
+        <path
+           d="M512,917.8110381794163C764,917.8110381794163,764,1095.5276741481161,1016,1095.5276741481161"
+           stroke="#3feb34"
+           stroke-width="25.592316087316924"
+           id="path190" />
+        <title
+           id="title191">Verduras y frutas → Champiñones: 11800</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g192">
+        <path
+           d="M512,705.5822469951643C764,705.5822469951643,764,1559.683725807763,1016,1559.683725807763"
+           stroke="#e1596a"
+           stroke-width="5.205216831318697"
+           id="path191" />
+        <title
+           id="title192">Carnes, huevos y lacteos → Grasa bovina: 2400</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g193">
+        <path
+           d="M512,991.1087327576998C764,991.1087327576998,764,1687.3580910395203,1016,1687.3580910395203"
+           stroke="#3feb34"
+           stroke-width="2.0105150010968464"
+           id="path192" />
+        <title
+           id="title193">Verduras y frutas → Jugo de manzana: 927</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g194">
+        <path
+           d="M512,1133.2082882256989C764,1133.2082882256989,764,1615.9585325752798,1016,1615.9585325752798"
+           stroke="#71f2ec"
+           stroke-width="3.812821328940945"
+           id="path193" />
+        <title
+           id="title194">Higiene → Papel higienico: 1758</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g195">
+        <path
+           d="M512,1514.9403424186748C764,1514.9403424186748,764,1229.8720374933685,1016,1229.8720374933685"
+           stroke="#f18c31"
+           stroke-width="18.652026978891996"
+           id="path194" />
+        <title
+           id="title195">Snacks → Alfajores: 8600</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g196">
+        <path
+           d="M512,1262.5325715825757C764,1262.5325715825757,764,1404.1501040202072,1016,1404.1501040202072"
+           stroke="#d2ad25"
+           stroke-width="10.84420173191395"
+           id="path195" />
+        <title
+           id="title196">Cereales → Tortillas de maiz: 5000</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g197">
+        <path
+           d="M512,974.8131508151527C764,974.8131508151527,764,1387.7636922016977,1016,1387.7636922016977"
+           stroke="#3feb34"
+           stroke-width="11.928621905105345"
+           id="path196" />
+        <title
+           id="title197">Verduras y frutas → Coliflor: 5500</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g198">
+        <path
+           d="M512,985.4404685124284C764,985.4404685124284,764,1463.1946523559634,1016,1463.1946523559634"
+           stroke="#3feb34"
+           stroke-width="9.326013489445998"
+           id="path197" />
+        <title
+           id="title198">Verduras y frutas → Remolacha: 4300</title>
+      </g>
+      <g
+         style="mix-blend-mode: multiply;"
+         id="g199">
+        <path
+           d="M512,698.9108940896908C764,698.9108940896908,764,1490.4933229587127,1016,1490.4933229587127"
+           stroke="#e1596a"
+           stroke-width="8.137488979628229"
+           id="path198" />
+        <title
+           id="title199">Carnes, huevos y lacteos → Leche en polvo: 3752</title>
+      </g>
+    </g>
+    <g
+       id="g291">
+      <text
+         x="516"
+         y="431.08625434835113"
+         text-anchor="start"
+         id="text200"><tspan
+           alignment-baseline="middle"
+           x="516"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan200">Carnes, huevos y lacteos</tspan></text>
+      <text
+         x="8"
+         y="292.21865575337074"
+         text-anchor="start"
+         id="text201"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan201">Feria Sabados</tspan></text>
+      <text
+         x="516"
+         y="858.3932494774753"
+         text-anchor="start"
+         id="text202"><tspan
+           alignment-baseline="middle"
+           x="516"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan202">Verduras y frutas</tspan></text>
+      <text
+         x="8"
+         y="577.01355"
+         text-anchor="start"
+         id="text203"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan203">Coto</tspan></text>
+      <text
+         x="8"
+         y="776.34711"
+         text-anchor="start"
+         id="text204"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan204">Dia</tspan></text>
+      <text
+         x="1012"
+         y="72.699532"
+         text-anchor="end"
+         id="text205"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan205">Huevo</tspan></text>
+      <text
+         x="1012"
+         y="224.70212"
+         text-anchor="end"
+         id="text206"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan206">Milanesa de carne</tspan></text>
+      <text
+         x="516"
+         y="1069.309805498552"
+         text-anchor="start"
+         id="text207"><tspan
+           alignment-baseline="middle"
+           x="516"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan207">Higiene</tspan></text>
+      <text
+         x="516"
+         y="1214.456180417755"
+         text-anchor="start"
+         id="text208"><tspan
+           alignment-baseline="middle"
+           x="516"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan208">Cereales</tspan></text>
+      <text
+         x="1012"
+         y="361.86844"
+         text-anchor="end"
+         id="text209"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan209">Milanesa de pollo</tspan></text>
+      <text
+         x="8"
+         y="936.80341"
+         text-anchor="start"
+         id="text210"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan210">Farmacity</tspan></text>
+      <text
+         x="8"
+         y="1053.2913"
+         text-anchor="start"
+         id="text211"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan211">Carrefour Express</tspan></text>
+      <text
+         x="516"
+         y="1332.9350366479216"
+         text-anchor="start"
+         id="text212"><tspan
+           alignment-baseline="middle"
+           x="516"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan212">Utensilios</tspan></text>
+      <text
+         x="516"
+         y="1428.066077132638"
+         text-anchor="start"
+         id="text213"><tspan
+           alignment-baseline="middle"
+           x="516"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan213">Salud</tspan></text>
+      <text
+         x="8"
+         y="1148.0138"
+         text-anchor="start"
+         id="text214"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan214">Carniceria X</tspan></text>
+      <text
+         x="8"
+         y="1226.4562"
+         text-anchor="start"
+         id="text215"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan215">Tienda Milagros</tspan></text>
+      <text
+         x="1012"
+         y="457.09546"
+         text-anchor="end"
+         id="text216"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan216">Brocoli</tspan></text>
+      <text
+         x="8"
+         y="1294.6578"
+         text-anchor="start"
+         id="text217"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan217">Feria Jueves</tspan></text>
+      <text
+         x="516"
+         y="1507.2463812898818"
+         text-anchor="start"
+         id="text218"><tspan
+           alignment-baseline="middle"
+           x="516"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan218">Snacks</tspan></text>
+      <text
+         x="1012"
+         y="521.63824"
+         text-anchor="end"
+         id="text219"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan219">Suprema de pollo</tspan></text>
+      <text
+         x="1012"
+         y="584.82983"
+         text-anchor="end"
+         id="text220"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan220">Pan</tspan></text>
+      <text
+         x="1012"
+         y="649.07031"
+         text-anchor="end"
+         id="text221"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan221">Banana</tspan></text>
+      <text
+         x="8"
+         y="1359.4374"
+         text-anchor="start"
+         id="text222"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan222">Bazar La Luna</tspan></text>
+      <text
+         x="1012"
+         y="709.81262"
+         text-anchor="end"
+         id="text223"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan223">Barra de proteina</tspan></text>
+      <text
+         x="8"
+         y="1417.7275"
+         text-anchor="start"
+         id="text224"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan224">Res</tspan></text>
+      <text
+         x="1012"
+         y="763.61688"
+         text-anchor="end"
+         id="text225"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan225">Leche</tspan></text>
+      <text
+         x="516"
+         y="1562.1619707568386"
+         text-anchor="start"
+         id="text226"><tspan
+           alignment-baseline="middle"
+           x="516"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan226">Otros</tspan></text>
+      <text
+         x="1012"
+         y="812.66174"
+         text-anchor="end"
+         id="text227"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan227">Shampoo</tspan></text>
+      <text
+         x="1012"
+         y="854.50037"
+         text-anchor="end"
+         id="text228"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan228">Acondicionador</tspan></text>
+      <text
+         x="1012"
+         y="893.24811"
+         text-anchor="end"
+         id="text229"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan229">Jugo de fruta</tspan></text>
+      <text
+         x="1012"
+         y="930.98566"
+         text-anchor="end"
+         id="text230"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan230">Vitamina</tspan></text>
+      <text
+         x="1012"
+         y="965.69873"
+         text-anchor="end"
+         id="text231"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan231">Sarten</tspan></text>
+      <text
+         x="1012"
+         y="999.64679"
+         text-anchor="end"
+         id="text232"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan232">Arroz</tspan></text>
+      <text
+         x="1012"
+         y="1032.928"
+         text-anchor="end"
+         id="text233"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan233">Galletas</tspan></text>
+      <text
+         x="1012"
+         y="1065.8162"
+         text-anchor="end"
+         id="text234"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan234">Mandarina</tspan></text>
+      <text
+         x="8"
+         y="1465.5948"
+         text-anchor="start"
+         id="text235"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan235">Open 25 HS!</tspan></text>
+      <text
+         x="1012"
+         y="1097.5277"
+         text-anchor="end"
+         id="text236"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan236">Champiñones</tspan></text>
+      <text
+         x="1012"
+         y="1127.8427"
+         text-anchor="end"
+         id="text237"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan237">Manzana</tspan></text>
+      <text
+         x="1012"
+         y="1157.343"
+         text-anchor="end"
+         id="text238"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan238">Chocolate en polvo</tspan></text>
+      <text
+         x="1012"
+         y="1183.9163"
+         text-anchor="end"
+         id="text239"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan239">Espuma de afeitar</tspan></text>
+      <text
+         x="1012"
+         y="1208.027"
+         text-anchor="end"
+         id="text240"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan240">Aceite de girasol</tspan></text>
+      <text
+         x="1012"
+         y="1231.8721"
+         text-anchor="end"
+         id="text241"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan241">Alfajores</tspan></text>
+      <text
+         x="8"
+         y="1491.4761"
+         text-anchor="start"
+         id="text242"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan242">Tienda peruana</tspan></text>
+      <text
+         x="1012"
+         y="1254.9982"
+         text-anchor="end"
+         id="text243"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan243">Crema dental</tspan></text>
+      <text
+         x="1012"
+         y="1277.4735"
+         text-anchor="end"
+         id="text244"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan244">Vaporera</tspan></text>
+      <text
+         x="8"
+         y="1513.2847"
+         text-anchor="start"
+         id="text245"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan245">Gastronovo Belgrano</tspan></text>
+      <text
+         x="1012"
+         y="1298.7399"
+         text-anchor="end"
+         id="text246"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan246">Milanesa napolitana</tspan></text>
+      <text
+         x="1012"
+         y="1318.2927"
+         text-anchor="end"
+         id="text247"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan247">Dulce de leche</tspan></text>
+      <text
+         x="1012"
+         y="1336.8567"
+         text-anchor="end"
+         id="text248"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan248">Zanahoria</tspan></text>
+      <text
+         x="8"
+         y="1532.3821"
+         text-anchor="start"
+         id="text249"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan249">Vendedor random</tspan></text>
+      <text
+         x="1012"
+         y="1354.9652"
+         text-anchor="end"
+         id="text250"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan250">Encendedor</tspan></text>
+      <text
+         x="1012"
+         y="1372.6355"
+         text-anchor="end"
+         id="text251"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan251">Corta uñas</tspan></text>
+      <text
+         x="8"
+         y="1551.9614"
+         text-anchor="start"
+         id="text252"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan252">Fruteria Colon</tspan></text>
+      <text
+         x="1012"
+         y="1389.7637"
+         text-anchor="end"
+         id="text253"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan253">Coliflor</tspan></text>
+      <text
+         x="8"
+         y="1568.4562"
+         text-anchor="start"
+         id="text254"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan254">Mas Que Tacos</tspan></text>
+      <text
+         x="1012"
+         y="1406.1501"
+         text-anchor="end"
+         id="text255"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan255">Tortillas de maiz</tspan></text>
+      <text
+         x="8"
+         y="1583.9567"
+         text-anchor="start"
+         id="text256"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan256">Mercado la Oficina</tspan></text>
+      <text
+         x="1012"
+         y="1421.5308"
+         text-anchor="end"
+         id="text257"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan257">Fideos</tspan></text>
+      <text
+         x="1012"
+         y="1436.2606"
+         text-anchor="end"
+         id="text258"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan258">Taza</tspan></text>
+      <text
+         x="1012"
+         y="1450.7819"
+         text-anchor="end"
+         id="text259"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan259">Papel toalla</tspan></text>
+      <text
+         x="1012"
+         y="1465.1947"
+         text-anchor="end"
+         id="text260"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan260">Remolacha</tspan></text>
+      <text
+         x="1012"
+         y="1479.1411"
+         text-anchor="end"
+         id="text261"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan261">Atun</tspan></text>
+      <text
+         x="1012"
+         y="1492.4933"
+         text-anchor="end"
+         id="text262"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan262">Leche en polvo</tspan></text>
+      <text
+         x="8"
+         y="1596.0474"
+         text-anchor="start"
+         id="text263"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan263">Empanadaza</tspan></text>
+      <text
+         x="1012"
+         y="1505.5745"
+         text-anchor="end"
+         id="text264"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan264">Empanada</tspan></text>
+      <text
+         x="1012"
+         y="1518.328"
+         text-anchor="end"
+         id="text265"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan265">Maquina de afeitar</tspan></text>
+      <text
+         x="8"
+         y="1610.5299"
+         text-anchor="start"
+         id="text266"><tspan
+           alignment-baseline="middle"
+           x="8"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan266">Supermercado Orient</tspan></text>
+      <text
+         x="1012"
+         y="1530.1057"
+         text-anchor="end"
+         id="text267"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan267">Tapones para oidos</tspan></text>
+      <text
+         x="1012"
+         y="1540.9005"
+         text-anchor="end"
+         id="text268"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan268">Salsa bolognesa</tspan></text>
+      <text
+         x="1012"
+         y="1551.3701"
+         text-anchor="end"
+         id="text269"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan269">Jabon</tspan></text>
+      <text
+         x="1012"
+         y="1561.6837"
+         text-anchor="end"
+         id="text270"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan270">Grasa bovina</tspan></text>
+      <text
+         x="1012"
+         y="1571.6613"
+         text-anchor="end"
+         id="text271"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan271">Detergente</tspan></text>
+      <text
+         x="1012"
+         y="1581.3098"
+         text-anchor="end"
+         id="text272"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan272">Crema de leche</tspan></text>
+      <text
+         x="1012"
+         y="1590.851"
+         text-anchor="end"
+         id="text273"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan273">Cereal</tspan></text>
+      <text
+         x="1012"
+         y="1600.1333"
+         text-anchor="end"
+         id="text274"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan274">Te</tspan></text>
+      <text
+         x="1012"
+         y="1609.1002"
+         text-anchor="end"
+         id="text275"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan275">Jamon</tspan></text>
+      <text
+         x="1012"
+         y="1617.9585"
+         text-anchor="end"
+         id="text276"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan276">Papel higienico</tspan></text>
+      <text
+         x="1012"
+         y="1626.5964"
+         text-anchor="end"
+         id="text277"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan277">Antitranspirante</tspan></text>
+      <text
+         x="1012"
+         y="1634.9437"
+         text-anchor="end"
+         id="text278"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan278">Budin</tspan></text>
+      <text
+         x="1012"
+         y="1643.0776"
+         text-anchor="end"
+         id="text279"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan279">Queso</tspan></text>
+      <text
+         x="1012"
+         y="1651.1033"
+         text-anchor="end"
+         id="text280"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan280">Jabonera</tspan></text>
+      <text
+         x="1012"
+         y="1659.0789"
+         text-anchor="end"
+         id="text281"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan281">Tijera</tspan></text>
+      <text
+         x="1012"
+         y="1669.0111"
+         text-anchor="end"
+         id="text282"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan282">Lavavajillas</tspan></text>
+      <text
+         x="1012"
+         y="1680.3237187946133"
+         text-anchor="end"
+         id="text284"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;"
+           id="tspan284">Portaminas</tspan></text>
+      <text
+         x="1012"
+         y="1689.358"
+         text-anchor="end"
+         id="text285"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan285">Jugo de manzana</tspan></text>
+      <text
+         x="1012"
+         y="1698.3176"
+         text-anchor="end"
+         id="text286"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan286">Sal</tspan></text>
+      <text
+         x="1012"
+         y="1704.9226"
+         text-anchor="end"
+         id="text287"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan287">Pionono</tspan></text>
+      <text
+         x="1012"
+         y="1713.1155"
+         text-anchor="end"
+         id="text288"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan288">Bolsa de tela</tspan></text>
+      <text
+         x="1012"
+         y="1721.1466"
+         text-anchor="end"
+         id="text290"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan290">Cinta</tspan></text>
+      <text
+         x="1012"
+         y="1728.7755"
+         text-anchor="end"
+         id="text291"><tspan
+           alignment-baseline="middle"
+           x="1012"
+           style="font-weight:bold;font-size:10px;font-family:Arial, sans-serif;fill:#000000"
+           id="tspan291">Goma de borrar</tspan></text>
+    </g>
+    <g
+       id="g294">
+      <text
+         x="510"
+         y="138.5"
+         text-anchor="middle"
+         style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;"
+         id="text292">Categoria</text>
+      <text
+         x="2"
+         y="111"
+         text-anchor="middle"
+         style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;"
+         id="text293">Tienda</text>
+      <text
+         x="1018"
+         y="-3.9999999999998863"
+         text-anchor="middle"
+         style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;"
+         id="text294">Subcategoria</text>
+    </g>
+  </g>
+</svg>
