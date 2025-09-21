@@ -1,25 +1,146 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Proporción de Gasto</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proporción de Gasto</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background-color: #f5f7fa;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: linear-gradient(135deg, #2c3e50 0%, #4a6491 100%);
+            color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        
+        h1 {
+            font-size: 2.2rem;
+            margin-bottom: 15px;
+        }
+        
+        .description {
+            font-size: 1.1rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .btn-back {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 25px;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+        }
+        
+        .btn-back:hover {
+            background-color: #2980b9;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        }
+        
+        .visualization-container {
+            width: 100%;
+            height: 70vh;
+            min-height: 500px;
+            margin-bottom: 30px;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+            background-color: white;
+        }
+        
+        .flourish-embed {
+            width: 100%;
+            height: 100%;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            color: #7f8c8d;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+            
+            .description {
+                font-size: 1rem;
+            }
+            
+            .visualization-container {
+                height: 60vh;
+                min-height: 400px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.5rem;
+            }
+            
+            .visualization-container {
+                height: 50vh;
+                min-height: 350px;
+            }
+            
+            .btn-back {
+                padding: 10px 20px;
+            }
+        }
+    </style>
 </head>
 <body>
-  <header>
-    <h1>¿En qué categorías, subcategorías y productos se concentra el gasto?</h1>
-  </header>
-
-  <main>
-    <div class="viz-container">
-      <div class="flourish-embed flourish-hierarchy" data-src="visualisation/24816622">
-        <script src="https://public.flourish.studio/resources/embed.js"></script>
-        <noscript>
-          <img src="https://public.flourish.studio/visualisation/24816622/thumbnail" width="100%" alt="hierarchy visualization" />
-        </noscript>
-      </div>
+    <div class="container">
+        <header>
+            <h1>¿En qué categorías, subcategorías y productos se concentra el gasto?</h1>
+            <p class="description">Explora esta visualización interactiva para descubrir cómo se distribuye el gasto en diferentes categorías y productos.</p>
+            <a href="index.html" class="btn-back">Regresar al Inicio</a>
+        </header>
+        
+        <main>
+            <div class="visualization-container">
+                <div class="flourish-embed flourish-hierarchy" data-src="visualisation/24816622">
+                    <script src="https://public.flourish.studio/resources/embed.js"></script>
+                    <noscript>
+                        <img src="https://public.flourish.studio/visualisation/24816622/thumbnail" width="100%" alt="hierarchy visualization" />
+                    </noscript>
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>Visualización creada con Flourish | © 2023</p>
+        </footer>
     </div>
-  </main>
 </body>
 </html>
