@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Distribución de Compras</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #4a6491;
+            --accent-color: #3498db;
+            --accent-hover: #2980b9;
+            --text-light: white;
+            --text-dark: #333;
+            --background: #f5f7fa;
+            --card-bg: white;
+            --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            --shadow-hover: 0 6px 16px rgba(0, 0, 0, 0.15);
+            --border-radius: 10px;
+            --transition: all 0.3s ease;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: var(--background);
+            color: var(--text-dark);
+            line-height: 1.6;
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        header {
+            text-align: center;
+            padding: 25px;
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+            color: var(--text-light);
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            margin-bottom: 20px;
+        }
+
+        .btn-back {
+            display: inline-block;
+            padding: 12px 25px;
+            background-color: var(--accent-color);
+            color: var(--text-light);
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 600;
+            transition: var(--transition);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+        }
+
+        .btn-back:hover {
+            background-color: var(--accent-hover);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-hover);
+        }
+
+        main {
+            width: 100%;
+            background-color: var(--card-bg);
+            border-radius: var(--border-radius);
+            overflow: hidden;
+            box-shadow: var(--shadow-hover);
+            min-height: 500px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .viz-container {
+            width: 100%;
+            height: 100%;
+            padding: 15px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #datawrapper-vis-bizL7 {
+            width: 100%;
+            min-height: 400px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #7f8c8d;
+            font-size: 0.9rem;
+            margin-top: auto;
+        }
+
+        /* Media Queries */
+        @media (max-width: 992px) {
+            h1 {
+                font-size: 1.9rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.7rem;
+            }
+
+            .viz-container {
+                padding: 10px;
+            }
+
+            #datawrapper-vis-bizL7 {
+                min-height: 350px;
+            }
+        }
+
+        @media (max-width: 576px) {
+            body {
+                padding: 15px;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+                margin-bottom: 15px;
+            }
+
+            header {
+                padding: 20px 15px;
+            }
+
+            .btn-back {
+                padding: 10px 20px;
+                font-size: 0.9rem;
+            }
+
+            #datawrapper-vis-bizL7 {
+                min-height: 300px;
+            }
+        }
+
+        @media (max-width: 400px) {
+            h1 {
+                font-size: 1.3rem;
+            }
+
+            #datawrapper-vis-bizL7 {
+                min-height: 280px;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>¿Cómo varían la cantidad de compras y los gastos a lo largo de la semana?</h1>
+        <a href="index.html" class="btn-back">Regresar al Inicio</a>
+    </header>
+
+    <main>
+        <div class="viz-container">
+            <div id="datawrapper-vis-bizL7" style="min-height:342px">
+                <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/bizL7/embed.js" charset="utf-8" data-target="#datawrapper-vis-bizL7"></script>
+                <noscript>
+                    <img src="https://datawrapper.dwcdn.net/bizL7/full.png" alt="Distribución de Cantidad de Compras y Gastos por Día de la Semana (Split Bars)" />
+                </noscript>
+            </div>
+        </div>
+    </main>
+</div>
+
+<footer>
+    <p>Visualización de distribución de compras - © 2023</p>
+</footer>
+</body>
+</html>
