@@ -1,31 +1,204 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dashboard de Análisis</title>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto Infovis</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #4a6491;
+            --accent-color: #3498db;
+            --accent-hover: #2980b9;
+            --text-light: white;
+            --text-dark: #333;
+            --background: #f5f7fa;
+            --card-bg: white;
+            --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            --shadow-hover: 0 6px 16px rgba(0, 0, 0, 0.15);
+            --border-radius: 10px;
+            --transition: all 0.3s ease;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: var(--background);
+            color: var(--text-dark);
+            line-height: 1.6;
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 800px;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        header {
+            text-align: center;
+            padding: 30px;
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+            color: var(--text-light);
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .buttons-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            width: 100%;
+        }
+
+        .viz-button {
+            display: flex;
+            align-items: center;
+            padding: 20px 25px;
+            background-color: var(--card-bg);
+            color: var(--text-dark);
+            text-decoration: none;
+            border-radius: var(--border-radius);
+            font-weight: 600;
+            font-size: 1.1rem;
+            transition: var(--transition);
+            box-shadow: var(--shadow);
+            border-left: 5px solid var(--accent-color);
+        }
+
+        .viz-button:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-hover);
+            background-color: var(--accent-color);
+            color: var(--text-light);
+        }
+
+        .button-icon {
+            margin-right: 15px;
+            font-size: 1.5rem;
+            width: 30px;
+            text-align: center;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #7f8c8d;
+            font-size: 0.9rem;
+            margin-top: 40px;
+        }
+
+        /* Media Queries */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .subtitle {
+                font-size: 1.1rem;
+            }
+
+            .viz-button {
+                padding: 18px 20px;
+                font-size: 1rem;
+            }
+        }
+
+        @media (max-width: 576px) {
+            body {
+                padding: 15px;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            header {
+                padding: 25px 15px;
+            }
+
+            .viz-button {
+                padding: 16px 18px;
+            }
+
+            .button-icon {
+                font-size: 1.3rem;
+                margin-right: 12px;
+            }
+        }
+
+        @media (max-width: 400px) {
+            h1 {
+                font-size: 1.6rem;
+            }
+
+            .subtitle {
+                font-size: 1rem;
+            }
+
+            .viz-button {
+                font-size: 0.95rem;
+                padding: 14px 16px;
+            }
+        }
+    </style>
 </head>
 <body>
-  <header>
-    <h1>Proyecto Infovis</h1>
-    <p>Explora mis visualizaciones creadas con distintas herramientas:</p>
-  </header>
+<div class="container">
+    <header>
+        <h1>Proyecto Infovis</h1>
+        <p class="subtitle">Visualización de datos de gastos y compras</p>
+    </header>
 
-  <main>
-    <section class="buttons">
-      <a href="rawgraphs.html" class="btn">RAWGraphs</a>
-      <a href="flourish.html" class="btn">Flourish</a>
-      <a href="datawrapper.html" class="btn">Datawrapper</a>
-      <a href="tableau.html" class="btn">Tableau</a>
-      <a href="powerbi.html" class="btn">PowerBI</a>
-    </section>
-  </main>
+    <main>
+        <div class="buttons-container">
+            <a href="rawgraphs.html" class="viz-button">
+                <span class="button-icon">📊</span>
+                <span>Visualización de Flujo de Gasto (RawGraphs)</span>
+            </a>
 
-  <footer>
-    <p>Proyecto de Visualización de Información – Willian Berrocal Alvarado</p>
-    <a href="https://docs.google.com/spreadsheets/d/1kH3zF6oF86M2ubIPwjhUAgZIaHGeqDKzf8_0ujK4I1I/edit?usp=sharing" target="_blank">Fuente de datos</a>
+            <a href="flourish.html" class="viz-button">
+                <span class="button-icon">🔍</span>
+                <span>Concentración de Gasto por Categorías (Flourish)</span>
+            </a>
 
-  </footer>
+            <a href="datawrapper.html" class="viz-button">
+                <span class="button-icon">📅</span>
+                <span>Distribución de Compras por Día de la Semana (Datawrapper)</span>
+            </a>
+
+            <a href="powerbi.html" class="viz-button">
+                <span class="button-icon">⏰</span>
+                <span>Distribución Temporal de Compras (Power BI)</span>
+            </a>
+        </div>
+    </main>
+</div>
+
+<footer>
+    <p>Proyecto de Visualización de Información - © 2023</p>
+</footer>
 </body>
 </html>
